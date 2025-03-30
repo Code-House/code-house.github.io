@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Niekategoryzowane on The Code-House Blog</title>
+    <link>http://localhost:1313/category/niekategoryzowane/</link>
+    <description>Recent content in Niekategoryzowane on The Code-House Blog</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>pl-PL</language>
+    <lastBuildDate>Fri, 10 Jun 2011 14:33:25 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/category/niekategoryzowane/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Przeprowadzka</title>
+      <link>http://localhost:1313/2011/06/przeprowadzka/</link>
+      <pubDate>Fri, 10 Jun 2011 14:33:25 +0000</pubDate>
+      <guid>http://localhost:1313/2011/06/przeprowadzka/</guid>
+      <description>&lt;p&gt;Po dłuższym czasie braku aktywności na tym blogu - postanowiłem przenieść część z postów, które zostały na nim opublikowane do nowego blogu, który tyczy się kwestii java, middleware itd. pod adresem &lt;a href=&#34;http://dywicki.pl&#34;&gt;dywicki.pl&lt;/a&gt;. Być może zawitają tam inne języki. :) Wszystkie pozostałe posty są i nadal będą dostępne. Zmiany są podyktowane tym, że jest mi trudno prowadzić blog jednoosobowej firmy i developerski zarazem. Stąd też decyzja o stworzeniu tylko jednego - developerskiego.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>XML i Adnotacje - kod ogólnego przeznaczenia i JPA</title>
+      <link>http://localhost:1313/2009/10/xml-i-adnotacje-kod-ogolnego-przeznaczenia-i-jpa/</link>
+      <pubDate>Thu, 01 Oct 2009 18:55:31 +0000</pubDate>
+      <guid>http://localhost:1313/2009/10/xml-i-adnotacje-kod-ogolnego-przeznaczenia-i-jpa/</guid>
+      <description>&lt;p&gt;W &lt;a href=&#34;http://localhost:1313/2009/09/dwie-klasy-redukujace-ilosc-kodu-w-encjach-jpa/&#34;&gt;poprzednim wpisie&lt;/a&gt; przedstawiłem sposób na redukcję kodu w encjach przy pomocy dziedziczenia i adnotacji @MappedSuperclass. Rozwiązanie to możemy również stosować aby tworzyć kod bardziej przenośny, który niewielkim kosztem można użyć w innych projektach.&lt;/p&gt;
+&lt;p&gt;Większość aplikacji webowych stosuje autoryzację opartą o role (ang. &lt;em&gt;Role Based Access Control&lt;/em&gt;), w takich wypadkach mamy zazwyczaj encję User oraz Role, pierwszą odpowiedzialną za przetrzymywanie informacji o użytkowniku a druga nazwy ról. O ile role są obszarem stałym - zawsze mają nazwę - o tyle użytkownicy często mają różne wariacje i relacje. Ot choćby powiązanie konta użytkownika z firmą.
+[sourcecode lang=&amp;ldquo;java&amp;rdquo;]
+// Copyright (C) 2009 Code-House
+// All rights reserved
+package org.code_house.security.domain;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

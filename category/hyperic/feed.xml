@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hyperic on The Code-House Blog</title>
+    <link>http://localhost:1313/category/hyperic/</link>
+    <description>Recent content in Hyperic on The Code-House Blog</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>pl-PL</language>
+    <lastBuildDate>Wed, 06 May 2009 06:55:24 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/category/hyperic/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SpringSource kupuje Hyperic</title>
+      <link>http://localhost:1313/2009/05/springsource-kupuje-hyperic/</link>
+      <pubDate>Wed, 06 May 2009 06:55:24 +0000</pubDate>
+      <guid>http://localhost:1313/2009/05/springsource-kupuje-hyperic/</guid>
+      <description>&lt;p&gt;Branża IT ostatnimi czasy jest targana coraz to nowymi wiadomościami o łączeniu się firm. Początkowe spekulacje o tym, że &lt;a href=&#34;http://ibm.com&#34;&gt;IBM&lt;/a&gt; chcę przejąć Javę zakończyły się tym, że &lt;a href=&#34;http://oracle.com&#34;&gt;Oracle&lt;/a&gt; kupiło &lt;a href=&#34;http://sun.com&#34;&gt;Sun Microsystems&lt;/a&gt;. Wywołało to nie lada falę w społeczności z pytaniami co dalej z Javą i bazą &lt;a href=&#34;http://mysql.com&#34;&gt;MySQL&lt;/a&gt;?&lt;/p&gt;
+&lt;p&gt;Nie będziemy jednak roztrząsać strategii takiego giganta jak Oracle, ponieważ jest już świeższy news. :) Dwa dni temu, dokładnie 4 maja 2009 &lt;a href=&#34;http://springsource.com/&#34;&gt;SpringSource&lt;/a&gt; przejęło &lt;a href=&#34;http://hyperic.com&#34;&gt;Hyperic&lt;/a&gt;. O ile pierwsza nazwa jest zapewne znana większości z Was o tyle druga może być niejasna.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Category on The Code-House Blog</title>
+    <link>http://localhost:1313/category/</link>
+    <description>Recent content in Category on The Code-House Blog</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>pl-PL</language>
+    <lastBuildDate>Fri, 10 Jun 2011 14:33:25 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/category/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Niekategoryzowane</title>
+      <link>http://localhost:1313/category/niekategoryzowane/</link>
+      <pubDate>Fri, 10 Jun 2011 14:33:25 +0000</pubDate>
+      <guid>http://localhost:1313/category/niekategoryzowane/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Java</title>
+      <link>http://localhost:1313/category/java/</link>
+      <pubDate>Wed, 15 Dec 2010 12:05:49 +0000</pubDate>
+      <guid>http://localhost:1313/category/java/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Open-Source</title>
+      <link>http://localhost:1313/category/open-source/</link>
+      <pubDate>Wed, 15 Dec 2010 12:05:49 +0000</pubDate>
+      <guid>http://localhost:1313/category/open-source/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Code-House</title>
+      <link>http://localhost:1313/category/code-house/</link>
+      <pubDate>Wed, 13 Oct 2010 10:25:17 +0000</pubDate>
+      <guid>http://localhost:1313/category/code-house/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Software</title>
+      <link>http://localhost:1313/category/software/</link>
+      <pubDate>Tue, 13 Apr 2010 11:35:52 +0000</pubDate>
+      <guid>http://localhost:1313/category/software/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Camel</title>
+      <link>http://localhost:1313/category/camel/</link>
+      <pubDate>Wed, 24 Mar 2010 15:26:52 +0000</pubDate>
+      <guid>http://localhost:1313/category/camel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Servicemix</title>
+      <link>http://localhost:1313/category/servicemix/</link>
+      <pubDate>Wed, 24 Mar 2010 15:26:52 +0000</pubDate>
+      <guid>http://localhost:1313/category/servicemix/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Consulting</title>
+      <link>http://localhost:1313/category/consulting/</link>
+      <pubDate>Mon, 22 Mar 2010 11:19:50 +0000</pubDate>
+      <guid>http://localhost:1313/category/consulting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fuse-Source</title>
+      <link>http://localhost:1313/category/fuse-source/</link>
+      <pubDate>Mon, 22 Mar 2010 11:19:50 +0000</pubDate>
+      <guid>http://localhost:1313/category/fuse-source/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spring-Source</title>
+      <link>http://localhost:1313/category/spring-source/</link>
+      <pubDate>Tue, 01 Dec 2009 18:25:34 +0000</pubDate>
+      <guid>http://localhost:1313/category/spring-source/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Eclipse</title>
+      <link>http://localhost:1313/category/eclipse/</link>
+      <pubDate>Wed, 03 Jun 2009 15:45:25 +0000</pubDate>
+      <guid>http://localhost:1313/category/eclipse/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hyperic</title>
+      <link>http://localhost:1313/category/hyperic/</link>
+      <pubDate>Wed, 06 May 2009 06:55:24 +0000</pubDate>
+      <guid>http://localhost:1313/category/hyperic/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
