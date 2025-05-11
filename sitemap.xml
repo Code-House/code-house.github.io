@@ -2,161 +2,161 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/pages/</loc>
+    <loc>http://blog.code-house.org/pages/</loc>
     <lastmod>2011-06-10T14:38:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://blog.code-house.org/</loc>
     <lastmod>2011-06-10T14:38:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/category/</loc>
+    <loc>http://blog.code-house.org/category/</loc>
     <lastmod>2011-06-10T14:33:25+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/category/niekategoryzowane/</loc>
+    <loc>http://blog.code-house.org/category/niekategoryzowane/</loc>
     <lastmod>2011-06-10T14:33:25+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://blog.code-house.org/posts/</loc>
     <lastmod>2011-06-10T14:33:25+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/06/przeprowadzka/</loc>
+    <loc>http://blog.code-house.org/2011/06/przeprowadzka/</loc>
     <lastmod>2011-06-10T14:33:25+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/12/apache-karaf-commands-rediscovered/</loc>
+    <loc>http://blog.code-house.org/2010/12/apache-karaf-commands-rediscovered/</loc>
     <lastmod>2010-12-15T12:05:49+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/category/java/</loc>
+    <loc>http://blog.code-house.org/category/java/</loc>
     <lastmod>2010-12-15T12:05:49+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/moved/</loc>
+    <loc>http://blog.code-house.org/tag/moved/</loc>
     <lastmod>2010-12-15T12:05:49+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/category/open-source/</loc>
+    <loc>http://blog.code-house.org/category/open-source/</loc>
     <lastmod>2010-12-15T12:05:49+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/</loc>
+    <loc>http://blog.code-house.org/tag/</loc>
     <lastmod>2010-12-15T12:05:49+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/category/code-house/</loc>
+    <loc>http://blog.code-house.org/category/code-house/</loc>
     <lastmod>2010-10-13T10:25:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/gwt/</loc>
+    <loc>http://blog.code-house.org/tag/gwt/</loc>
     <lastmod>2010-10-13T10:25:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/java/</loc>
+    <loc>http://blog.code-house.org/tag/java/</loc>
     <lastmod>2010-10-13T10:25:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/uibinder/</loc>
+    <loc>http://blog.code-house.org/tag/uibinder/</loc>
     <lastmod>2010-10-13T10:25:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/widget/</loc>
+    <loc>http://blog.code-house.org/tag/widget/</loc>
     <lastmod>2010-10-13T10:25:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/10/wlasny-widget-w-uibinderze/</loc>
+    <loc>http://blog.code-house.org/2010/10/wlasny-widget-w-uibinderze/</loc>
     <lastmod>2010-10-13T10:25:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/06/brakujacy-element-javarsovii/</loc>
+    <loc>http://blog.code-house.org/2010/06/brakujacy-element-javarsovii/</loc>
     <lastmod>2010-06-11T15:43:19+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/04/praktyki-studenckie-w-code-house/</loc>
+    <loc>http://blog.code-house.org/2010/04/praktyki-studenckie-w-code-house/</loc>
     <lastmod>2010-04-13T11:35:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/category/software/</loc>
+    <loc>http://blog.code-house.org/category/software/</loc>
     <lastmod>2010-04-13T11:35:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/category/camel/</loc>
+    <loc>http://blog.code-house.org/category/camel/</loc>
     <lastmod>2010-03-24T15:26:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/03/osgi-new-bundles-servicemix-repository/</loc>
+    <loc>http://blog.code-house.org/2010/03/osgi-new-bundles-servicemix-repository/</loc>
     <lastmod>2010-03-24T15:26:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/category/servicemix/</loc>
+    <loc>http://blog.code-house.org/category/servicemix/</loc>
     <lastmod>2010-03-24T15:26:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/03/enterprise-osgi-released/</loc>
+    <loc>http://blog.code-house.org/2010/03/enterprise-osgi-released/</loc>
     <lastmod>2010-03-23T18:26:24+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/03/enterprise-osgi/</loc>
+    <loc>http://blog.code-house.org/2010/03/enterprise-osgi/</loc>
     <lastmod>2010-03-23T11:26:18+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/category/consulting/</loc>
+    <loc>http://blog.code-house.org/category/consulting/</loc>
     <lastmod>2010-03-22T11:19:50+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/category/fuse-source/</loc>
+    <loc>http://blog.code-house.org/category/fuse-source/</loc>
     <lastmod>2010-03-22T11:19:50+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/03/introduction-to-apache-servicemix4-part-1/</loc>
+    <loc>http://blog.code-house.org/2010/03/introduction-to-apache-servicemix4-part-1/</loc>
     <lastmod>2010-03-22T11:19:50+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/01/wygodne-srodowisko-dla-programisty-z-jrebel/</loc>
+    <loc>http://blog.code-house.org/2010/01/wygodne-srodowisko-dla-programisty-z-jrebel/</loc>
     <lastmod>2010-01-05T16:48:56+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/12/spring-3-0-rc3-maven/</loc>
+    <loc>http://blog.code-house.org/2009/12/spring-3-0-rc3-maven/</loc>
     <lastmod>2009-12-01T18:25:34+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/category/spring-source/</loc>
+    <loc>http://blog.code-house.org/category/spring-source/</loc>
     <lastmod>2009-12-01T18:25:34+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/11/gwt-and-mvc-implementations/</loc>
+    <loc>http://blog.code-house.org/2009/11/gwt-and-mvc-implementations/</loc>
     <lastmod>2009-11-05T20:15:54+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/gxt/</loc>
+    <loc>http://blog.code-house.org/tag/gxt/</loc>
     <lastmod>2009-11-05T20:15:54+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/pure-mvc/</loc>
+    <loc>http://blog.code-house.org/tag/pure-mvc/</loc>
     <lastmod>2009-11-05T20:15:54+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/10/instalowanie-oprogramowania-atlassian-cz-1/</loc>
+    <loc>http://blog.code-house.org/2009/10/instalowanie-oprogramowania-atlassian-cz-1/</loc>
     <lastmod>2009-10-16T10:01:44+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/10/typy-generyczne-od-teraz-sa-mniej-anonimowe/</loc>
+    <loc>http://blog.code-house.org/2009/10/typy-generyczne-od-teraz-sa-mniej-anonimowe/</loc>
     <lastmod>2009-10-02T09:51:48+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/10/xml-i-adnotacje-kod-ogolnego-przeznaczenia-i-jpa/</loc>
+    <loc>http://blog.code-house.org/2009/10/xml-i-adnotacje-kod-ogolnego-przeznaczenia-i-jpa/</loc>
     <lastmod>2009-10-01T18:55:31+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/09/dwie-klasy-redukujace-ilosc-kodu-w-encjach-jpa/</loc>
+    <loc>http://blog.code-house.org/2009/09/dwie-klasy-redukujace-ilosc-kodu-w-encjach-jpa/</loc>
     <lastmod>2009-09-04T13:31:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/j2ee/</loc>
+    <loc>http://blog.code-house.org/tag/j2ee/</loc>
     <lastmod>2009-09-04T13:31:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/jpa/</loc>
+    <loc>http://blog.code-house.org/tag/jpa/</loc>
     <lastmod>2009-09-04T13:31:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/eclipse/</loc>
+    <loc>http://blog.code-house.org/tag/eclipse/</loc>
     <lastmod>2009-07-07T06:00:20+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/maven/</loc>
+    <loc>http://blog.code-house.org/tag/maven/</loc>
     <lastmod>2009-07-07T06:00:20+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/07/servicemix-ide-integration/</loc>
+    <loc>http://blog.code-house.org/2009/07/servicemix-ide-integration/</loc>
     <lastmod>2009-07-07T06:00:20+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/servicemix-ide/</loc>
+    <loc>http://blog.code-house.org/tag/servicemix-ide/</loc>
     <lastmod>2009-07-07T06:00:20+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/06/javarsovia-2009/</loc>
+    <loc>http://blog.code-house.org/2009/06/javarsovia-2009/</loc>
     <lastmod>2009-06-29T19:15:36+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/category/eclipse/</loc>
+    <loc>http://blog.code-house.org/category/eclipse/</loc>
     <lastmod>2009-06-03T15:45:25+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/06/materialy-z-eclipse-democamp/</loc>
+    <loc>http://blog.code-house.org/2009/06/materialy-z-eclipse-democamp/</loc>
     <lastmod>2009-06-03T15:45:25+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/05/warszawski-eclipse-democamp-galileo-2009/</loc>
+    <loc>http://blog.code-house.org/2009/05/warszawski-eclipse-democamp-galileo-2009/</loc>
     <lastmod>2009-05-30T12:01:26+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/05/szukasz-eclipse-jest-code-house/</loc>
+    <loc>http://blog.code-house.org/2009/05/szukasz-eclipse-jest-code-house/</loc>
     <lastmod>2009-05-14T19:39:57+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/category/hyperic/</loc>
+    <loc>http://blog.code-house.org/category/hyperic/</loc>
     <lastmod>2009-05-06T06:55:24+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/05/springsource-kupuje-hyperic/</loc>
+    <loc>http://blog.code-house.org/2009/05/springsource-kupuje-hyperic/</loc>
     <lastmod>2009-05-06T06:55:24+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/all/</loc>
+    <loc>http://blog.code-house.org/all/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>http://blog.code-house.org/search/</loc>
   </url>
 </urlset>

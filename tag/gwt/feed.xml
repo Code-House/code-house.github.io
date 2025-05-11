@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Gwt on The Code-House Blog</title>
-    <link>http://localhost:1313/tag/gwt/</link>
+    <link>http://blog.code-house.org/tag/gwt/</link>
     <description>Recent content in Gwt on The Code-House Blog</description>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo -- 0.147.0</generator>
     <language>pl-PL</language>
     <lastBuildDate>Wed, 13 Oct 2010 10:25:17 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tag/gwt/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://blog.code-house.org/tag/gwt/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Własny widget w UiBinderze</title>
-      <link>http://localhost:1313/2010/10/wlasny-widget-w-uibinderze/</link>
+      <link>http://blog.code-house.org/2010/10/wlasny-widget-w-uibinderze/</link>
       <pubDate>Wed, 13 Oct 2010 10:25:17 +0000</pubDate>
-      <guid>http://localhost:1313/2010/10/wlasny-widget-w-uibinderze/</guid>
+      <guid>http://blog.code-house.org/2010/10/wlasny-widget-w-uibinderze/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://code.google.com/intl/pl/webtoolkit/doc/latest/DevGuideUiBinder.html&#34; title=&#34;UiBinder&#34;&gt;UiBinder&lt;/a&gt; jest rozszerzeniem, które pozwala nam szybko i bardzo przyjemnie stworzyć widok okienka w XML&amp;rsquo;u.  Dzięki niemu możemy oddzielić widok aplikacji webowej od logiki ją obsługującej w czystym &lt;a href=&#34;http://code.google.com/intl/pl/webtoolkit/&#34; title=&#34;GWT&#34;&gt;GWT&lt;/a&gt;. Sposób używania UiBinder&amp;rsquo;a jest bardzo dobrze opisany. Jednak już po chwili korzystania  z tego narzędzia wraz z klasami dostępnymi standardowo w GWT odczujemy mały niedosyt, że potrzebujemy tworzyć własne widgety, które będą kompatybilne z UiBinder&amp;rsquo;em albo będziemy musieli zrezygnować całkowicie z tego narzędzia.&lt;/p&gt;</description>
     </item>
     <item>
       <title>GWT oraz implementacje MVC</title>
-      <link>http://localhost:1313/2009/11/gwt-and-mvc-implementations/</link>
+      <link>http://blog.code-house.org/2009/11/gwt-and-mvc-implementations/</link>
       <pubDate>Thu, 05 Nov 2009 20:15:54 +0000</pubDate>
-      <guid>http://localhost:1313/2009/11/gwt-and-mvc-implementations/</guid>
+      <guid>http://blog.code-house.org/2009/11/gwt-and-mvc-implementations/</guid>
       <description>&lt;p&gt;GWT, czyli Google Web Toolkit to nic innego jak zbiór komponentów, które można użyć podczas tworzenia aplikacji. GWT jest łatwe, kod tworzy się szybko i łatwo uruchamia chociażby z poziomu Mavena, jednakże największym problemem nie jest to jak stworzyć okienko, ale jak zorganizować projekt. W tym poście postaram się przedstawić kilka gotowych bibliotek, z którymi się zetknąłem podczas swych bojów z budowaniem sporej aplikacji.&lt;/p&gt;
 &lt;p&gt;Ilość implementacji MVC dla GWT jest dosyć duża a temat był poruszany na zagranicznych blogach już nie jeden raz, wystarczy zajrzeć na poniższe strony:&lt;/p&gt;</description>
     </item>

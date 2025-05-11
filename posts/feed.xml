@@ -2,56 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on The Code-House Blog</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>http://blog.code-house.org/posts/</link>
     <description>Recent content in Posts on The Code-House Blog</description>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo -- 0.147.0</generator>
     <language>pl-PL</language>
     <lastBuildDate>Fri, 10 Jun 2011 14:33:25 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://blog.code-house.org/posts/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Przeprowadzka</title>
-      <link>http://localhost:1313/2011/06/przeprowadzka/</link>
+      <link>http://blog.code-house.org/2011/06/przeprowadzka/</link>
       <pubDate>Fri, 10 Jun 2011 14:33:25 +0000</pubDate>
-      <guid>http://localhost:1313/2011/06/przeprowadzka/</guid>
+      <guid>http://blog.code-house.org/2011/06/przeprowadzka/</guid>
       <description>&lt;p&gt;Po dłuższym czasie braku aktywności na tym blogu - postanowiłem przenieść część z postów, które zostały na nim opublikowane do nowego blogu, który tyczy się kwestii java, middleware itd. pod adresem &lt;a href=&#34;http://dywicki.pl&#34;&gt;dywicki.pl&lt;/a&gt;. Być może zawitają tam inne języki. :) Wszystkie pozostałe posty są i nadal będą dostępne. Zmiany są podyktowane tym, że jest mi trudno prowadzić blog jednoosobowej firmy i developerski zarazem. Stąd też decyzja o stworzeniu tylko jednego - developerskiego.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Apache Karaf commands rediscovered</title>
-      <link>http://localhost:1313/2010/12/apache-karaf-commands-rediscovered/</link>
+      <link>http://blog.code-house.org/2010/12/apache-karaf-commands-rediscovered/</link>
       <pubDate>Wed, 15 Dec 2010 12:05:49 +0000</pubDate>
-      <guid>http://localhost:1313/2010/12/apache-karaf-commands-rediscovered/</guid>
+      <guid>http://blog.code-house.org/2010/12/apache-karaf-commands-rediscovered/</guid>
       <description>&lt;p&gt;I work with Apache Karaf almost every day. There is a lot of commands provided by default and most of them are a bit anonymous. In this post I would like introduce these commands.&lt;/p&gt;
 &lt;h2 id=&#34;list-bundles&#34;&gt;List bundles&lt;/h2&gt;
 &lt;p&gt;Common command executed in Karaf shell is &lt;strong&gt;list&lt;/strong&gt;. There is few switches which makes this command more usable. First of them is &lt;strong&gt;-l&lt;/strong&gt; which shows bundle locations, second is &lt;strong&gt;-t&lt;/strong&gt;. Second switch is available from Karaf 2.1.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Własny widget w UiBinderze</title>
-      <link>http://localhost:1313/2010/10/wlasny-widget-w-uibinderze/</link>
+      <link>http://blog.code-house.org/2010/10/wlasny-widget-w-uibinderze/</link>
       <pubDate>Wed, 13 Oct 2010 10:25:17 +0000</pubDate>
-      <guid>http://localhost:1313/2010/10/wlasny-widget-w-uibinderze/</guid>
+      <guid>http://blog.code-house.org/2010/10/wlasny-widget-w-uibinderze/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://code.google.com/intl/pl/webtoolkit/doc/latest/DevGuideUiBinder.html&#34; title=&#34;UiBinder&#34;&gt;UiBinder&lt;/a&gt; jest rozszerzeniem, które pozwala nam szybko i bardzo przyjemnie stworzyć widok okienka w XML&amp;rsquo;u.  Dzięki niemu możemy oddzielić widok aplikacji webowej od logiki ją obsługującej w czystym &lt;a href=&#34;http://code.google.com/intl/pl/webtoolkit/&#34; title=&#34;GWT&#34;&gt;GWT&lt;/a&gt;. Sposób używania UiBinder&amp;rsquo;a jest bardzo dobrze opisany. Jednak już po chwili korzystania  z tego narzędzia wraz z klasami dostępnymi standardowo w GWT odczujemy mały niedosyt, że potrzebujemy tworzyć własne widgety, które będą kompatybilne z UiBinder&amp;rsquo;em albo będziemy musieli zrezygnować całkowicie z tego narzędzia.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Brakujący element Javarsovii</title>
-      <link>http://localhost:1313/2010/06/brakujacy-element-javarsovii/</link>
+      <link>http://blog.code-house.org/2010/06/brakujacy-element-javarsovii/</link>
       <pubDate>Fri, 11 Jun 2010 15:43:19 +0000</pubDate>
-      <guid>http://localhost:1313/2010/06/brakujacy-element-javarsovii/</guid>
+      <guid>http://blog.code-house.org/2010/06/brakujacy-element-javarsovii/</guid>
       <description>&lt;p&gt;Tegoroczna edycja konferencji Javarsovia jest bez wątpienia największym wydarzeniem tej kategorii w Polsce. Grono sponsorów i partnerów nafaszerowane gigantycznymi korporacjami ( &lt;a href=&#34;http://www.javarsovia.pl/news/33/72/IBM-partnerem-konferencji.html&#34;&gt;IBM&lt;/a&gt;, &lt;a href=&#34;http://www.javarsovia.pl/news/32/72/Oracle-Zlotym-Sponsorem.html&#34;&gt;Oracle&lt;/a&gt;, &lt;a href=&#34;http://www.javarsovia.pl/news/27/72/Microsoft-Zlotym-Sponsorem-Javarsovii-2010.html&#34;&gt;Microsoft&lt;/a&gt;, &lt;a href=&#34;http://www.javarsovia.pl/news/16/72/Adobe-sponsorem-Javarsovii-2010.html&#34;&gt;Adobe&lt;/a&gt;, &lt;a href=&#34;http://www.javarsovia.pl/news/20/72/Google-zlotym-sponsorem-Javarsovia-2010.html&#34;&gt;Google&lt;/a&gt;). Pomyśleć, że Code-House w zeszłym roku był sponsorem tej niewielkiej konferencji a w tym roku nie przyszło by nam rywalizować nawet o ławkę sponsorów rezerwowych. :-) Moje gratulacje dla kapituły przekazuję już teraz.&lt;/p&gt;
 &lt;p&gt;Wróćmy jednak do meritum - a mianowicie czego brakuje na Javarsovii. :-) Brakuje prelekcji o OSGi, które mimo porządnego wieku (10 lat) jest w dalszym ciągu nowością dla wielu developerów. Szczęśliwie, w ramach spotkań &lt;a href=&#34;http://groups.google.com/group/warszawa-jug/&#34;&gt;Warszawa JUG&lt;/a&gt; było zaplanowane spotkanie pt. &lt;strong&gt;Springowe spojrzenie na OSGi - Spring Dynamic Modules for OSGi(tm)&lt;/strong&gt; - które miał poprowadzić Jacek Lis. Niestety, Jacek w planowanym terminie (15 czerwiec) będzie poza Warszawą. Aby obronić OSGi i załatać deficyt tego tematu na Javarsovii (zgłaszałem się z OSGi R4.2 Enterprise do C4P), postanowiłem zastąpić Jacka i poprowadzić prezentację - której temat również ewoluował na &lt;strong&gt;Spring Dynamic Modules, Blueprint, OSGi - deklaratywne&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Praktyki studenckie w Code-House</title>
-      <link>http://localhost:1313/2010/04/praktyki-studenckie-w-code-house/</link>
+      <link>http://blog.code-house.org/2010/04/praktyki-studenckie-w-code-house/</link>
       <pubDate>Tue, 13 Apr 2010 11:35:52 +0000</pubDate>
-      <guid>http://localhost:1313/2010/04/praktyki-studenckie-w-code-house/</guid>
+      <guid>http://blog.code-house.org/2010/04/praktyki-studenckie-w-code-house/</guid>
       <description>&lt;p&gt;Jakiś czas temu &lt;a href=&#34;http://jaceklaskowski.pl/&#34;&gt;Jacek Laskowski&lt;/a&gt; wspominał o &lt;a href=&#34;http://jlaskowski.blogspot.com/2010/03/praktyki-studenckie-w-ibm-ta-edycja.html&#34;&gt;praktykach studenckich w IBM&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Celem praktyk w IBM jest zapoznanie się z produktami korporacji, praktyki w Code-House mają nieco inny wymiar - przede wszystkim technologiczny. Część z dziedzin, w których obracamy się obecnie przy okazji ServiceMixa jest nieco futurystyczna (OSGi R 4.2, dOSGi), część za to bardzo praktyczna np. szerokie użycie Mavena oraz Spring Framework czy JAX-WS/JAX-RS. &lt;strong&gt;Cały kod, który powstanie w wyniku praktyk będzie opublikowany na licencji Apache 2.0 i udostępniony publicznie&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>OSGi-fikacja oraz nowe bundle w repozytorium ServiceMix</title>
-      <link>http://localhost:1313/2010/03/osgi-new-bundles-servicemix-repository/</link>
+      <link>http://blog.code-house.org/2010/03/osgi-new-bundles-servicemix-repository/</link>
       <pubDate>Wed, 24 Mar 2010 15:26:52 +0000</pubDate>
-      <guid>http://localhost:1313/2010/03/osgi-new-bundles-servicemix-repository/</guid>
+      <guid>http://blog.code-house.org/2010/03/osgi-new-bundles-servicemix-repository/</guid>
       <description>&lt;p&gt;W tym wpisie zostanie omówiony proces OSGi-fikacji artefaktów, który przechodziłem gdy uruchamiałem prostą usługę na ServiceMix, która miała śledzić zewnętrzny RSS i pobierać z niego wpisy. Postanowiłem skorzystać z camel-rss. Przykłady które były do niego załączone są wystarczające by stworzyć odpowiedniego konsumenta&amp;hellip;&lt;/p&gt;
 &lt;p&gt;Problem zaczął się gdy usiłowałem uruchomić endpoint camela w OSGi. Mimo poprawnej konfiguracji, rozwiązanych zależności otrzymywałem wyjątek:
 [code]java.lang.NoClassDefFoundError: Could not initialize class com.sun.syndication.feed.synd.SyndFeedImpl
@@ -91,70 +91,70 @@ return array;
     </item>
     <item>
       <title>Specyfikacja Enterprise OSGi została opublikowana</title>
-      <link>http://localhost:1313/2010/03/enterprise-osgi-released/</link>
+      <link>http://blog.code-house.org/2010/03/enterprise-osgi-released/</link>
       <pubDate>Tue, 23 Mar 2010 18:26:24 +0000</pubDate>
-      <guid>http://localhost:1313/2010/03/enterprise-osgi-released/</guid>
+      <guid>http://blog.code-house.org/2010/03/enterprise-osgi-released/</guid>
       <description>&lt;p&gt;Dnia dzisiejszego została wydana finalna wersja specyfikacji OSGi R4 V4.2 Enterprise. Wersja jest gotowa do pobrania pod adresem &lt;a href=&#34;http://www.osgi.org/Download/Release4V42&#34;&gt;http://www.osgi.org/Download/Release4V42&lt;/a&gt;. Dokument ma 483 strony. :-)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Enterprise OSGi</title>
-      <link>http://localhost:1313/2010/03/enterprise-osgi/</link>
+      <link>http://blog.code-house.org/2010/03/enterprise-osgi/</link>
       <pubDate>Tue, 23 Mar 2010 11:26:18 +0000</pubDate>
-      <guid>http://localhost:1313/2010/03/enterprise-osgi/</guid>
+      <guid>http://blog.code-house.org/2010/03/enterprise-osgi/</guid>
       <description>&lt;p&gt;Do opublikowania tego postu zachęcił mnie &lt;a href=&#34;http://jlaskowski.blogspot.com/&#34;&gt;Jacek Laskowski&lt;/a&gt; swym postem pod tytułem &lt;a href=&#34;http://jlaskowski.blogspot.com/2010/03/w-piatek-4developers-ze-mna-z.html&#34;&gt;W piątek 4Developers ze mną z Enterprise OSGi i in&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Bardzo się cieszę że na 4Developers (na którym niestety mnie nie będzie) temat Enterprise OSGi będzie poruszony, ponieważ jak się zdaje jest to nieuchronny kierunek rozwoju Javy. Pod wpływem słów Jacka zacząłem się zastanawiać nad długofalowymi efektami jakie OSGi ma wnieść do developmentu.&lt;/p&gt;
 &lt;p&gt;Hałas który obecnie jest wokół OSGi w przybiera konkretne kształty w postaci projektów takich jak &lt;a href=&#34;http://incubator.apache.org/aries/&#34;&gt;Aries&lt;/a&gt; czy &lt;a href=&#34;http://www.eclipse.org/gemini/&#34;&gt;Gemini&lt;/a&gt;. Obydwa projekty skupiają się nad ostatnimi draftami OSGi R4 V4.2 i mają na celu udostępnienie technologii takich jak JNDI, JPA i JMX wewnątrz kontenerów OSGi. Zacznijmy jednak od początku..&lt;/p&gt;</description>
     </item>
     <item>
       <title>Wprowadzenie do Apache ServiceMix 4 cz. 1</title>
-      <link>http://localhost:1313/2010/03/introduction-to-apache-servicemix4-part-1/</link>
+      <link>http://blog.code-house.org/2010/03/introduction-to-apache-servicemix4-part-1/</link>
       <pubDate>Mon, 22 Mar 2010 11:19:50 +0000</pubDate>
-      <guid>http://localhost:1313/2010/03/introduction-to-apache-servicemix4-part-1/</guid>
+      <guid>http://blog.code-house.org/2010/03/introduction-to-apache-servicemix4-part-1/</guid>
       <description>&lt;p&gt;Dnia 23 lutego w ramach Warszawa JUG miałem przyjemność wraz z &lt;a href=&#34;http://nurkiewicz.blogspot.com/&#34;&gt;Tomkiem Nurkiewiczem&lt;/a&gt; prezentować narzędzia integracyjne z otwartym kodem źródłowym. Tomek przedstawił Mule ESB, podczas gdy ja zająłem się Apache ServiceMix i Apache Camel. Ze względu na objętość przykładu ten wpis będzie jedynie wprowadzeniem do konsoli.&lt;/p&gt;
 &lt;p&gt;Niestety podczas prezentacji nie udało mi się uruchomić przykładu na &amp;ldquo;szynie&amp;rdquo; - ponieważ uniemożliwiły to zależności do bibliotek których nie miałem zapisanych lokalnie. Drugim mym przeciwnikiem był czas - nie było wielu chętnych by słuchać po 2h tłumaczeń dlaczego się nie udało :-) Na problem z zależnościami stworzyłem rozwiązanie i zgłosiłem je do Karaf-a ( &lt;a href=&#34;https://issues.apache.org/jira/browse/FELIX-2141&#34;&gt;FELIX 2141&lt;/a&gt;). W przyszłej wersji - 1.6 - wszyscy będą mogli skorzystać z polecenia &lt;code&gt;features:info -t&lt;/code&gt; które wyświetli całe drzewko zależności potrzebnych do zainstalowania nowych funkcjonalności.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Wygodne środowisko dla programisty z JRebel</title>
-      <link>http://localhost:1313/2010/01/wygodne-srodowisko-dla-programisty-z-jrebel/</link>
+      <link>http://blog.code-house.org/2010/01/wygodne-srodowisko-dla-programisty-z-jrebel/</link>
       <pubDate>Tue, 05 Jan 2010 16:48:56 +0000</pubDate>
-      <guid>http://localhost:1313/2010/01/wygodne-srodowisko-dla-programisty-z-jrebel/</guid>
+      <guid>http://blog.code-house.org/2010/01/wygodne-srodowisko-dla-programisty-z-jrebel/</guid>
       <description>&lt;img alt=&#34;jrebel_bigger&#34; loading=&#34;lazy&#34; src=&#34;http://blog.code-house.org/wp-content/uploads/jrebel_bigger.png&#34;&gt;Od dłuższego czasu pracuję z następującymi narzędziami: Maven, Eclipse, Jetty. Nigdy nie starałem się na to by moje projekty dobrze współgrały z Eclipse ponieważ wszystko i tak uruchamiam przez Mavena. Korzyścią jest przenośność tego rozwiązania, wadą brak klikalnej wygody, tj zakładki serwerów w Eclipse i aplikacji które są na nich uruchomione.</description>
     </item>
     <item>
       <title>Spring 3.0 RC3 &#43; Maven</title>
-      <link>http://localhost:1313/2009/12/spring-3-0-rc3-maven/</link>
+      <link>http://blog.code-house.org/2009/12/spring-3-0-rc3-maven/</link>
       <pubDate>Tue, 01 Dec 2009 18:25:34 +0000</pubDate>
-      <guid>http://localhost:1313/2009/12/spring-3-0-rc3-maven/</guid>
+      <guid>http://blog.code-house.org/2009/12/spring-3-0-rc3-maven/</guid>
       <description>&lt;p&gt;Właśnie wyłapałem na Twitterze, że &lt;a href=&#34;http://www.springsource.com/download?project=Spring%20Framework&#34;&gt;Spring 3.0 RC3&lt;/a&gt; został wydany.&lt;/p&gt;
 &lt;p&gt;Dla tych, którzy chcieli by pobrać nową wersję do swojego projektu opartego o Mavena drobna informacja - repozytorium z tymi artefaktami znajduje się pod adresem &lt;a href=&#34;http://maven.springframework.org/milestone&#34;&gt;http://maven.springframework.org/milestone&lt;/a&gt;. Miejmy nadzieję, że będzie to repozytorium które się nie zmieni po 3 miesiącach na inne.&lt;/p&gt;
 &lt;p&gt;W razie problemów - można zawsze skorzystać z repozytorium utrzymywanego na &lt;a href=&#34;http://repository.code-house.org/content/repositories/com.springsource.repository.bundles.milestone/&#34;&gt;serwerze Code-House&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>GWT oraz implementacje MVC</title>
-      <link>http://localhost:1313/2009/11/gwt-and-mvc-implementations/</link>
+      <link>http://blog.code-house.org/2009/11/gwt-and-mvc-implementations/</link>
       <pubDate>Thu, 05 Nov 2009 20:15:54 +0000</pubDate>
-      <guid>http://localhost:1313/2009/11/gwt-and-mvc-implementations/</guid>
+      <guid>http://blog.code-house.org/2009/11/gwt-and-mvc-implementations/</guid>
       <description>&lt;p&gt;GWT, czyli Google Web Toolkit to nic innego jak zbiór komponentów, które można użyć podczas tworzenia aplikacji. GWT jest łatwe, kod tworzy się szybko i łatwo uruchamia chociażby z poziomu Mavena, jednakże największym problemem nie jest to jak stworzyć okienko, ale jak zorganizować projekt. W tym poście postaram się przedstawić kilka gotowych bibliotek, z którymi się zetknąłem podczas swych bojów z budowaniem sporej aplikacji.&lt;/p&gt;
 &lt;p&gt;Ilość implementacji MVC dla GWT jest dosyć duża a temat był poruszany na zagranicznych blogach już nie jeden raz, wystarczy zajrzeć na poniższe strony:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Instalowanie oprogramowania Atlassian cz. 1</title>
-      <link>http://localhost:1313/2009/10/instalowanie-oprogramowania-atlassian-cz-1/</link>
+      <link>http://blog.code-house.org/2009/10/instalowanie-oprogramowania-atlassian-cz-1/</link>
       <pubDate>Fri, 16 Oct 2009 10:01:44 +0000</pubDate>
-      <guid>http://localhost:1313/2009/10/instalowanie-oprogramowania-atlassian-cz-1/</guid>
+      <guid>http://blog.code-house.org/2009/10/instalowanie-oprogramowania-atlassian-cz-1/</guid>
       <description>&lt;p&gt;Kilka dni temu trafiłem na informacje o tym, że firma Atlassian uruchomiła &amp;ldquo;promocję&amp;rdquo; w której wyprzedaje licencje startowe na swoje produkty za 10$. Tym oto sposobem za równowartość dobrego obuwia (niecałe 175 zł) wszedłem w posiadanie sześciu licencji na Crowd, Jira, GreenHopper, Confluence, Fisheye i Bamboo. W poście tym krótki opis instalacji na Tomcat 6.x pierwszych czterech.&lt;/p&gt;
 &lt;h2 id=&#34;przygotowania&#34;&gt;Przygotowania&lt;/h2&gt;
 &lt;p&gt;Uprzedzam, że instrukcja jest pisana z pamięci więc mogą pojawić się jakieś braki. W przypadku gdy instrukcja nie zadziała proszę o komentarz, a postaram się pomóc i uzupełnić wpis tak by był kompletny.
 Aby ułatwić sobie życie i zaoszczędzić pamięć na serwerze wszystkie produkty będzie obsługiwała jedna instancja Tomcat i PostgreSQL. Niestety Fisheye i Bamboo są dostępne tylko w wersji standalone, stąd proces ich instalacji będzie nieco inny. Zanim ruszymy z całością pobieramy od producenta oprogramowanie.
-&lt;img alt=&#34;Pobieranie Crowd&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/wp-content/uploads/crowd.jpg&#34;&gt;
+&lt;img alt=&#34;Pobieranie Crowd&#34; loading=&#34;lazy&#34; src=&#34;http://blog.code-house.org/wp-content/uploads/crowd.jpg&#34;&gt;
 Przeskakujemy na zakładkę Linux i następnie klikamy w prawym górnym rogu i pobieramy wersję standalone. Wykonujemy polecenie
 [bash]tar -xvzf atlassian-crowd-2.0.2.tar.gz[/bash]&lt;/p&gt;</description>
     </item>
     <item>
       <title>Typy generyczne od teraz są mniej anonimowe</title>
-      <link>http://localhost:1313/2009/10/typy-generyczne-od-teraz-sa-mniej-anonimowe/</link>
+      <link>http://blog.code-house.org/2009/10/typy-generyczne-od-teraz-sa-mniej-anonimowe/</link>
       <pubDate>Fri, 02 Oct 2009 09:51:48 +0000</pubDate>
-      <guid>http://localhost:1313/2009/10/typy-generyczne-od-teraz-sa-mniej-anonimowe/</guid>
+      <guid>http://blog.code-house.org/2009/10/typy-generyczne-od-teraz-sa-mniej-anonimowe/</guid>
       <description>&lt;p&gt;Do tej pory tworząc kod z użyciem typów generycznych zawsze borykałem się z problemem - jak dobrać się do klasy na podstawie któregoś parametru. Rozwiązanie znalazłem przeglądając w internecie kod jakieś przykładowej aplikacji. Ot znowu kilka linii które uporządkują kod i zmniejszą ilość powtórzeń. :-)&lt;/p&gt;
 &lt;p&gt;Dbanie o porządek w kodzie to obowiązek każdego programisty. Stąd podział aplikacji na warstwy, wyodrębnianie wspólnego kodu do typów abstrakcyjnych i tak dalej. Są jednak miejsca, których do tej pory nie potrafiłem uporządkować dobrze - były to wszelkiego rodzaju DAO, które zawsze wyglądały podobnie. Interfejs, klasa abstrakcyjna, pochodna wywołująca chroniony konstruktor. Wszystko po to by w klasie abstrakcyjnej móc zdefiniować metodę &lt;strong&gt;readById&lt;/strong&gt;. Oto przykład takiego kodu:
 [java]// Ogólny interfejs dostępu do danych
@@ -182,10 +182,10 @@ return getJpaTemplate().find(typeClass, id);
     </item>
     <item>
       <title>XML i Adnotacje - kod ogólnego przeznaczenia i JPA</title>
-      <link>http://localhost:1313/2009/10/xml-i-adnotacje-kod-ogolnego-przeznaczenia-i-jpa/</link>
+      <link>http://blog.code-house.org/2009/10/xml-i-adnotacje-kod-ogolnego-przeznaczenia-i-jpa/</link>
       <pubDate>Thu, 01 Oct 2009 18:55:31 +0000</pubDate>
-      <guid>http://localhost:1313/2009/10/xml-i-adnotacje-kod-ogolnego-przeznaczenia-i-jpa/</guid>
-      <description>&lt;p&gt;W &lt;a href=&#34;http://localhost:1313/2009/09/dwie-klasy-redukujace-ilosc-kodu-w-encjach-jpa/&#34;&gt;poprzednim wpisie&lt;/a&gt; przedstawiłem sposób na redukcję kodu w encjach przy pomocy dziedziczenia i adnotacji @MappedSuperclass. Rozwiązanie to możemy również stosować aby tworzyć kod bardziej przenośny, który niewielkim kosztem można użyć w innych projektach.&lt;/p&gt;
+      <guid>http://blog.code-house.org/2009/10/xml-i-adnotacje-kod-ogolnego-przeznaczenia-i-jpa/</guid>
+      <description>&lt;p&gt;W &lt;a href=&#34;http://blog.code-house.org/2009/09/dwie-klasy-redukujace-ilosc-kodu-w-encjach-jpa/&#34;&gt;poprzednim wpisie&lt;/a&gt; przedstawiłem sposób na redukcję kodu w encjach przy pomocy dziedziczenia i adnotacji @MappedSuperclass. Rozwiązanie to możemy również stosować aby tworzyć kod bardziej przenośny, który niewielkim kosztem można użyć w innych projektach.&lt;/p&gt;
 &lt;p&gt;Większość aplikacji webowych stosuje autoryzację opartą o role (ang. &lt;em&gt;Role Based Access Control&lt;/em&gt;), w takich wypadkach mamy zazwyczaj encję User oraz Role, pierwszą odpowiedzialną za przetrzymywanie informacji o użytkowniku a druga nazwy ról. O ile role są obszarem stałym - zawsze mają nazwę - o tyle użytkownicy często mają różne wariacje i relacje. Ot choćby powiązanie konta użytkownika z firmą.
 [sourcecode lang=&amp;ldquo;java&amp;rdquo;]
 // Copyright (C) 2009 Code-House
@@ -194,9 +194,9 @@ package org.code_house.security.domain;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dwie klasy redukujące ilość kodu w encjach JPA</title>
-      <link>http://localhost:1313/2009/09/dwie-klasy-redukujace-ilosc-kodu-w-encjach-jpa/</link>
+      <link>http://blog.code-house.org/2009/09/dwie-klasy-redukujace-ilosc-kodu-w-encjach-jpa/</link>
       <pubDate>Fri, 04 Sep 2009 13:31:45 +0000</pubDate>
-      <guid>http://localhost:1313/2009/09/dwie-klasy-redukujace-ilosc-kodu-w-encjach-jpa/</guid>
+      <guid>http://blog.code-house.org/2009/09/dwie-klasy-redukujace-ilosc-kodu-w-encjach-jpa/</guid>
       <description>&lt;p&gt;Z pewnością nie jest to odkrycie godne podziwu czy też coś, co może realizować z nowinkami JPA 2.0, nie mniej jest to kod bez którego żaden projekt obejść się nie może - mianowicie identyfikacja encji.&lt;/p&gt;
 &lt;p&gt;Borykałem się z problemem dosyć pospolitym, mianowicie pozbyciem się z każdej encji kodu:
 [sourcecode lang=&amp;ldquo;java&amp;rdquo;]@Id
@@ -207,18 +207,18 @@ Nic dziwnego, 40 encji to aż 120 powtórzonych, niepotrzebnie powielonych linii
     </item>
     <item>
       <title>ServiceMix IDE integration</title>
-      <link>http://localhost:1313/2009/07/servicemix-ide-integration/</link>
+      <link>http://blog.code-house.org/2009/07/servicemix-ide-integration/</link>
       <pubDate>Tue, 07 Jul 2009 06:00:20 +0000</pubDate>
-      <guid>http://localhost:1313/2009/07/servicemix-ide-integration/</guid>
-      <description>&lt;p&gt;Jakiś czas temu &lt;a href=&#34;http://localhost:1313/2009/05/warszawski-eclipse-democamp-galileo-2009/&#34;&gt;zapraszaliśmy na tym blogu&lt;/a&gt; zainteresowanych na Warszawski Eclipse DemoCamp Galileo 2009. Jest nam niezmiernie miło ogłosić, że temat poruszany na tym spotkaniu przez Code-House Software został kontynuowany. Wsparcie dla &lt;a href=&#34;http://servicemix.apache.org/&#34;&gt;Apache ServiceMix&lt;/a&gt; w oparciu o &lt;a href=&#34;http://springide.org&#34;&gt;Spring IDE&lt;/a&gt; zainteresowało społeczność jak i organizacje skupione wokół projektu, między innymi &lt;a href=&#34;http://fusesource.com/&#34;&gt;FUSE Source&lt;/a&gt;. Nie będzie to oczywiście alternatywa dla narzędzi oferowanych przez tą firmę a raczej dopełnienie funkcjonalności, których w tej chwili trudno szukać.&lt;/p&gt;
+      <guid>http://blog.code-house.org/2009/07/servicemix-ide-integration/</guid>
+      <description>&lt;p&gt;Jakiś czas temu &lt;a href=&#34;http://blog.code-house.org/2009/05/warszawski-eclipse-democamp-galileo-2009/&#34;&gt;zapraszaliśmy na tym blogu&lt;/a&gt; zainteresowanych na Warszawski Eclipse DemoCamp Galileo 2009. Jest nam niezmiernie miło ogłosić, że temat poruszany na tym spotkaniu przez Code-House Software został kontynuowany. Wsparcie dla &lt;a href=&#34;http://servicemix.apache.org/&#34;&gt;Apache ServiceMix&lt;/a&gt; w oparciu o &lt;a href=&#34;http://springide.org&#34;&gt;Spring IDE&lt;/a&gt; zainteresowało społeczność jak i organizacje skupione wokół projektu, między innymi &lt;a href=&#34;http://fusesource.com/&#34;&gt;FUSE Source&lt;/a&gt;. Nie będzie to oczywiście alternatywa dla narzędzi oferowanych przez tą firmę a raczej dopełnienie funkcjonalności, których w tej chwili trudno szukać.&lt;/p&gt;
 &lt;p&gt;Strona projektu znajduje się na razie na &lt;a href=&#34;http://projects.code-house.org/wiki/sm-ide&#34;&gt;wiki&lt;/a&gt; bug trackera Code-House i jest na nim kilka informacji odnośnie celów projektu i nawet parę zadań. :-) Na pytanie kiedy pojawi się działająca wersja ciężko nam odpowiedzieć ponieważ w obecnej chwili siły przerobowe naszej firmy oprócz zaangażowania w kontrakt muszą podołać przygotowaniu akcji marketingowej w prasie oraz internecie. Miejmy nadzieję, że przed końcem wakacji pojawi się działająca wersja. Oczywiście nie jest to jedyny sposób w jaki Code-House wspiera społeczność projektu Apache ServiceMix, w planach mamy wspomaganie paru komponentów które wzbogacą funkcjonalność magistrali.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Javarsovia 2009</title>
-      <link>http://localhost:1313/2009/06/javarsovia-2009/</link>
+      <link>http://blog.code-house.org/2009/06/javarsovia-2009/</link>
       <pubDate>Mon, 29 Jun 2009 19:15:36 +0000</pubDate>
-      <guid>http://localhost:1313/2009/06/javarsovia-2009/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;Javarsovia Logo&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/wp-content/uploads/javarsovia.jpg&#34;&gt; W najbliższy weekend odbędzie się największa warszawska, darmowa, konferencja poświęcona Javie. Nasza firma wsparła przedsięwzięcie niewielką kwotą stąd też zapraszamy do wzięcia udziału w konferencji. :) Tematy zostały podzielone na trzy kategorie:&lt;/p&gt;
+      <guid>http://blog.code-house.org/2009/06/javarsovia-2009/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Javarsovia Logo&#34; loading=&#34;lazy&#34; src=&#34;http://blog.code-house.org/wp-content/uploads/javarsovia.jpg&#34;&gt; W najbliższy weekend odbędzie się największa warszawska, darmowa, konferencja poświęcona Javie. Nasza firma wsparła przedsięwzięcie niewielką kwotą stąd też zapraszamy do wzięcia udziału w konferencji. :) Tematy zostały podzielone na trzy kategorie:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Java - technologicznie, czyli o nowinkach i bibliotekach (7 prezentacji)&lt;/li&gt;
 &lt;li&gt;Java - pragmatycznie, optymalizacja, testy (8 prezentacji)&lt;/li&gt;
@@ -228,17 +228,17 @@ Nic dziwnego, 40 encji to aż 120 powtórzonych, niepotrzebnie powielonych linii
     </item>
     <item>
       <title>Materiały z Eclipse DemoCamp</title>
-      <link>http://localhost:1313/2009/06/materialy-z-eclipse-democamp/</link>
+      <link>http://blog.code-house.org/2009/06/materialy-z-eclipse-democamp/</link>
       <pubDate>Wed, 03 Jun 2009 15:45:25 +0000</pubDate>
-      <guid>http://localhost:1313/2009/06/materialy-z-eclipse-democamp/</guid>
-      <description>&lt;p&gt;Zgodnie z obietnicą z &lt;a href=&#34;http://localhost:1313/2009/05/warszawski-eclipse-democamp-galileo-2009/&#34;&gt;poprzedniego&lt;/a&gt; postu zamieszczam materiały z prezentacji którą wczoraj przeprowadziłem w ramach &lt;a href=&#34;http://groups.google.com/group/warszawa-jug/web/eclipse-democamp-2009&#34;&gt;Warszawskiego Eclipse DemoCamp Galileo 2009&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/wp-content/uploads/ide2.png&#34;&gt;&lt;img alt=&#34;Spring IDE&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/wp-content/uploads/ide2-300x179.png&#34;&gt;&lt;/a&gt; Celem prezentacji było dodanie obsługi nowej (niestandardowej) przestrzeni nazw w Spring IDE. Jako dobry przykład rozbudowanej przestrzeni nazw wybrałem konfigurację komponentu &lt;a href=&#34;http://servicemix.apache.org/SM/servicemix-file.html&#34;&gt;servicemix-file&lt;/a&gt;. Jako że nie udało mi się przed prezentacją zmusić &lt;a href=&#34;http://geronimo.apache.org/xbean/&#34;&gt;Apache XBean&lt;/a&gt; do pracy wewnątrz Eclipse musiałem stworzyć własny namespace handler. Dopiero wczoraj, późno w nocy stworzyłem &lt;a href=&#34;https://issues.apache.org/jira/browse/XBEAN-132&#34;&gt;patch&lt;/a&gt; który umożliwia podpięcie normalnego handlera. Jakkolwiek przykład dla spójności pozostał ze starym kodem.&lt;/p&gt;</description>
+      <guid>http://blog.code-house.org/2009/06/materialy-z-eclipse-democamp/</guid>
+      <description>&lt;p&gt;Zgodnie z obietnicą z &lt;a href=&#34;http://blog.code-house.org/2009/05/warszawski-eclipse-democamp-galileo-2009/&#34;&gt;poprzedniego&lt;/a&gt; postu zamieszczam materiały z prezentacji którą wczoraj przeprowadziłem w ramach &lt;a href=&#34;http://groups.google.com/group/warszawa-jug/web/eclipse-democamp-2009&#34;&gt;Warszawskiego Eclipse DemoCamp Galileo 2009&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.code-house.org/wp-content/uploads/ide2.png&#34;&gt;&lt;img alt=&#34;Spring IDE&#34; loading=&#34;lazy&#34; src=&#34;http://blog.code-house.org/wp-content/uploads/ide2-300x179.png&#34;&gt;&lt;/a&gt; Celem prezentacji było dodanie obsługi nowej (niestandardowej) przestrzeni nazw w Spring IDE. Jako dobry przykład rozbudowanej przestrzeni nazw wybrałem konfigurację komponentu &lt;a href=&#34;http://servicemix.apache.org/SM/servicemix-file.html&#34;&gt;servicemix-file&lt;/a&gt;. Jako że nie udało mi się przed prezentacją zmusić &lt;a href=&#34;http://geronimo.apache.org/xbean/&#34;&gt;Apache XBean&lt;/a&gt; do pracy wewnątrz Eclipse musiałem stworzyć własny namespace handler. Dopiero wczoraj, późno w nocy stworzyłem &lt;a href=&#34;https://issues.apache.org/jira/browse/XBEAN-132&#34;&gt;patch&lt;/a&gt; który umożliwia podpięcie normalnego handlera. Jakkolwiek przykład dla spójności pozostał ze starym kodem.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Warszawski Eclipse DemoCamp Galileo 2009</title>
-      <link>http://localhost:1313/2009/05/warszawski-eclipse-democamp-galileo-2009/</link>
+      <link>http://blog.code-house.org/2009/05/warszawski-eclipse-democamp-galileo-2009/</link>
       <pubDate>Sat, 30 May 2009 12:01:26 +0000</pubDate>
-      <guid>http://localhost:1313/2009/05/warszawski-eclipse-democamp-galileo-2009/</guid>
+      <guid>http://blog.code-house.org/2009/05/warszawski-eclipse-democamp-galileo-2009/</guid>
       <description>&lt;p&gt;W dniu 2 czerwca 2009 odbędzie się &lt;a href=&#34;http://groups.google.com/group/warszawa-jug/web/eclipse-democamp-2009&#34;&gt;Warszawski Eclipse DemoCamp Galileo 2009&lt;/a&gt;, nasza firma wspiera to wydarzenie merytorycznie oraz finansowo. Głównym sponsorem jest &lt;a href=&#34;http://www.eclipse.org/&#34;&gt;fundacja Eclipse&lt;/a&gt;.
 Działanie to doskonale wpisuje się w profil naszej firmy, której celem jest współpraca ze społecznością oraz promowanie rozwiązań Open Source - Spring IDE - o którym będzie mowa to projekt z otwartym kodem źródłowym rozwijanym w dużej mierze przez &lt;a href=&#34;http://springsource.com&#34;&gt;SpringSource&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Tematy które będą prezentowane:&lt;/p&gt;
@@ -254,17 +254,17 @@ Działanie to doskonale wpisuje się w profil naszej firmy, której celem jest w
     </item>
     <item>
       <title>Szukasz Eclipse? Jest na Code-House!</title>
-      <link>http://localhost:1313/2009/05/szukasz-eclipse-jest-code-house/</link>
+      <link>http://blog.code-house.org/2009/05/szukasz-eclipse-jest-code-house/</link>
       <pubDate>Thu, 14 May 2009 19:39:57 +0000</pubDate>
-      <guid>http://localhost:1313/2009/05/szukasz-eclipse-jest-code-house/</guid>
+      <guid>http://blog.code-house.org/2009/05/szukasz-eclipse-jest-code-house/</guid>
       <description>&lt;p&gt;Z ogromną przyjemnością pragniemy poinformować, że od 2 dni z naszego serwera można pobrać wszystkie projekty rozwijane w ramach fundacji &lt;a href=&#34;http://eclipse.org&#34;&gt;Eclipse&lt;/a&gt;. Dołączyliśmy tym samym do grona 2 innych polskich mirrorów.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/wp-content/uploads/eclipse-mirror1.png&#34;&gt;&lt;img alt=&#34;Pobieramy z Code-House&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/wp-content/uploads/eclipse-mirror1.png&#34;&gt;&lt;/a&gt; Od strony technicznej mirror jest uruchomiony na &lt;a href=&#34;http://www.lighttpd.net/&#34;&gt;lighthttpd&lt;/a&gt;, oddzielnym IP oraz dedykowanym dysku USB 600 GB. Serwer stoi na łączu 100 mbps, stąd osiągane transfery powinny być zadowalające i użytkownicy szerokopasmowych łączy nie powinni odczuwać żadnego spowolnienia. Na naszym firmowym łączu - 10 mbps - udało się osiągnąć ponad 1M/s, czyli tyle ile fabryka dała! :-)&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;http://blog.code-house.org/wp-content/uploads/eclipse-mirror1.png&#34;&gt;&lt;img alt=&#34;Pobieramy z Code-House&#34; loading=&#34;lazy&#34; src=&#34;http://blog.code-house.org/wp-content/uploads/eclipse-mirror1.png&#34;&gt;&lt;/a&gt; Od strony technicznej mirror jest uruchomiony na &lt;a href=&#34;http://www.lighttpd.net/&#34;&gt;lighthttpd&lt;/a&gt;, oddzielnym IP oraz dedykowanym dysku USB 600 GB. Serwer stoi na łączu 100 mbps, stąd osiągane transfery powinny być zadowalające i użytkownicy szerokopasmowych łączy nie powinni odczuwać żadnego spowolnienia. Na naszym firmowym łączu - 10 mbps - udało się osiągnąć ponad 1M/s, czyli tyle ile fabryka dała! :-)&lt;/p&gt;</description>
     </item>
     <item>
       <title>SpringSource kupuje Hyperic</title>
-      <link>http://localhost:1313/2009/05/springsource-kupuje-hyperic/</link>
+      <link>http://blog.code-house.org/2009/05/springsource-kupuje-hyperic/</link>
       <pubDate>Wed, 06 May 2009 06:55:24 +0000</pubDate>
-      <guid>http://localhost:1313/2009/05/springsource-kupuje-hyperic/</guid>
+      <guid>http://blog.code-house.org/2009/05/springsource-kupuje-hyperic/</guid>
       <description>&lt;p&gt;Branża IT ostatnimi czasy jest targana coraz to nowymi wiadomościami o łączeniu się firm. Początkowe spekulacje o tym, że &lt;a href=&#34;http://ibm.com&#34;&gt;IBM&lt;/a&gt; chcę przejąć Javę zakończyły się tym, że &lt;a href=&#34;http://oracle.com&#34;&gt;Oracle&lt;/a&gt; kupiło &lt;a href=&#34;http://sun.com&#34;&gt;Sun Microsystems&lt;/a&gt;. Wywołało to nie lada falę w społeczności z pytaniami co dalej z Javą i bazą &lt;a href=&#34;http://mysql.com&#34;&gt;MySQL&lt;/a&gt;?&lt;/p&gt;
 &lt;p&gt;Nie będziemy jednak roztrząsać strategii takiego giganta jak Oracle, ponieważ jest już świeższy news. :) Dwa dni temu, dokładnie 4 maja 2009 &lt;a href=&#34;http://springsource.com/&#34;&gt;SpringSource&lt;/a&gt; przejęło &lt;a href=&#34;http://hyperic.com&#34;&gt;Hyperic&lt;/a&gt;. O ile pierwsza nazwa jest zapewne znana większości z Was o tyle druga może być niejasna.&lt;/p&gt;</description>
     </item>

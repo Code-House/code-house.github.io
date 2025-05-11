@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Uibinder on The Code-House Blog</title>
-    <link>http://localhost:1313/tag/uibinder/</link>
+    <link>http://blog.code-house.org/tag/uibinder/</link>
     <description>Recent content in Uibinder on The Code-House Blog</description>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo -- 0.147.0</generator>
     <language>pl-PL</language>
     <lastBuildDate>Wed, 13 Oct 2010 10:25:17 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tag/uibinder/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://blog.code-house.org/tag/uibinder/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Własny widget w UiBinderze</title>
-      <link>http://localhost:1313/2010/10/wlasny-widget-w-uibinderze/</link>
+      <link>http://blog.code-house.org/2010/10/wlasny-widget-w-uibinderze/</link>
       <pubDate>Wed, 13 Oct 2010 10:25:17 +0000</pubDate>
-      <guid>http://localhost:1313/2010/10/wlasny-widget-w-uibinderze/</guid>
+      <guid>http://blog.code-house.org/2010/10/wlasny-widget-w-uibinderze/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://code.google.com/intl/pl/webtoolkit/doc/latest/DevGuideUiBinder.html&#34; title=&#34;UiBinder&#34;&gt;UiBinder&lt;/a&gt; jest rozszerzeniem, które pozwala nam szybko i bardzo przyjemnie stworzyć widok okienka w XML&amp;rsquo;u.  Dzięki niemu możemy oddzielić widok aplikacji webowej od logiki ją obsługującej w czystym &lt;a href=&#34;http://code.google.com/intl/pl/webtoolkit/&#34; title=&#34;GWT&#34;&gt;GWT&lt;/a&gt;. Sposób używania UiBinder&amp;rsquo;a jest bardzo dobrze opisany. Jednak już po chwili korzystania  z tego narzędzia wraz z klasami dostępnymi standardowo w GWT odczujemy mały niedosyt, że potrzebujemy tworzyć własne widgety, które będą kompatybilne z UiBinder&amp;rsquo;em albo będziemy musieli zrezygnować całkowicie z tego narzędzia.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Gxt on The Code-House Blog</title>
-    <link>http://localhost:1313/tag/gxt/</link>
+    <link>http://blog.code-house.org/tag/gxt/</link>
     <description>Recent content in Gxt on The Code-House Blog</description>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo -- 0.147.0</generator>
     <language>pl-PL</language>
     <lastBuildDate>Thu, 05 Nov 2009 20:15:54 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tag/gxt/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://blog.code-house.org/tag/gxt/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GWT oraz implementacje MVC</title>
-      <link>http://localhost:1313/2009/11/gwt-and-mvc-implementations/</link>
+      <link>http://blog.code-house.org/2009/11/gwt-and-mvc-implementations/</link>
       <pubDate>Thu, 05 Nov 2009 20:15:54 +0000</pubDate>
-      <guid>http://localhost:1313/2009/11/gwt-and-mvc-implementations/</guid>
+      <guid>http://blog.code-house.org/2009/11/gwt-and-mvc-implementations/</guid>
       <description>&lt;p&gt;GWT, czyli Google Web Toolkit to nic innego jak zbiór komponentów, które można użyć podczas tworzenia aplikacji. GWT jest łatwe, kod tworzy się szybko i łatwo uruchamia chociażby z poziomu Mavena, jednakże największym problemem nie jest to jak stworzyć okienko, ale jak zorganizować projekt. W tym poście postaram się przedstawić kilka gotowych bibliotek, z którymi się zetknąłem podczas swych bojów z budowaniem sporej aplikacji.&lt;/p&gt;
 &lt;p&gt;Ilość implementacji MVC dla GWT jest dosyć duża a temat był poruszany na zagranicznych blogach już nie jeden raz, wystarczy zajrzeć na poniższe strony:&lt;/p&gt;</description>
     </item>

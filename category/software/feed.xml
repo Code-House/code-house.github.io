@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Software on The Code-House Blog</title>
-    <link>http://localhost:1313/category/software/</link>
+    <link>http://blog.code-house.org/category/software/</link>
     <description>Recent content in Software on The Code-House Blog</description>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo -- 0.147.0</generator>
     <language>pl-PL</language>
     <lastBuildDate>Tue, 13 Apr 2010 11:35:52 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/category/software/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://blog.code-house.org/category/software/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Praktyki studenckie w Code-House</title>
-      <link>http://localhost:1313/2010/04/praktyki-studenckie-w-code-house/</link>
+      <link>http://blog.code-house.org/2010/04/praktyki-studenckie-w-code-house/</link>
       <pubDate>Tue, 13 Apr 2010 11:35:52 +0000</pubDate>
-      <guid>http://localhost:1313/2010/04/praktyki-studenckie-w-code-house/</guid>
+      <guid>http://blog.code-house.org/2010/04/praktyki-studenckie-w-code-house/</guid>
       <description>&lt;p&gt;Jakiś czas temu &lt;a href=&#34;http://jaceklaskowski.pl/&#34;&gt;Jacek Laskowski&lt;/a&gt; wspominał o &lt;a href=&#34;http://jlaskowski.blogspot.com/2010/03/praktyki-studenckie-w-ibm-ta-edycja.html&#34;&gt;praktykach studenckich w IBM&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Celem praktyk w IBM jest zapoznanie się z produktami korporacji, praktyki w Code-House mają nieco inny wymiar - przede wszystkim technologiczny. Część z dziedzin, w których obracamy się obecnie przy okazji ServiceMixa jest nieco futurystyczna (OSGi R 4.2, dOSGi), część za to bardzo praktyczna np. szerokie użycie Mavena oraz Spring Framework czy JAX-WS/JAX-RS. &lt;strong&gt;Cały kod, który powstanie w wyniku praktyk będzie opublikowany na licencji Apache 2.0 i udostępniony publicznie&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>ServiceMix IDE integration</title>
-      <link>http://localhost:1313/2009/07/servicemix-ide-integration/</link>
+      <link>http://blog.code-house.org/2009/07/servicemix-ide-integration/</link>
       <pubDate>Tue, 07 Jul 2009 06:00:20 +0000</pubDate>
-      <guid>http://localhost:1313/2009/07/servicemix-ide-integration/</guid>
-      <description>&lt;p&gt;Jakiś czas temu &lt;a href=&#34;http://localhost:1313/2009/05/warszawski-eclipse-democamp-galileo-2009/&#34;&gt;zapraszaliśmy na tym blogu&lt;/a&gt; zainteresowanych na Warszawski Eclipse DemoCamp Galileo 2009. Jest nam niezmiernie miło ogłosić, że temat poruszany na tym spotkaniu przez Code-House Software został kontynuowany. Wsparcie dla &lt;a href=&#34;http://servicemix.apache.org/&#34;&gt;Apache ServiceMix&lt;/a&gt; w oparciu o &lt;a href=&#34;http://springide.org&#34;&gt;Spring IDE&lt;/a&gt; zainteresowało społeczność jak i organizacje skupione wokół projektu, między innymi &lt;a href=&#34;http://fusesource.com/&#34;&gt;FUSE Source&lt;/a&gt;. Nie będzie to oczywiście alternatywa dla narzędzi oferowanych przez tą firmę a raczej dopełnienie funkcjonalności, których w tej chwili trudno szukać.&lt;/p&gt;
+      <guid>http://blog.code-house.org/2009/07/servicemix-ide-integration/</guid>
+      <description>&lt;p&gt;Jakiś czas temu &lt;a href=&#34;http://blog.code-house.org/2009/05/warszawski-eclipse-democamp-galileo-2009/&#34;&gt;zapraszaliśmy na tym blogu&lt;/a&gt; zainteresowanych na Warszawski Eclipse DemoCamp Galileo 2009. Jest nam niezmiernie miło ogłosić, że temat poruszany na tym spotkaniu przez Code-House Software został kontynuowany. Wsparcie dla &lt;a href=&#34;http://servicemix.apache.org/&#34;&gt;Apache ServiceMix&lt;/a&gt; w oparciu o &lt;a href=&#34;http://springide.org&#34;&gt;Spring IDE&lt;/a&gt; zainteresowało społeczność jak i organizacje skupione wokół projektu, między innymi &lt;a href=&#34;http://fusesource.com/&#34;&gt;FUSE Source&lt;/a&gt;. Nie będzie to oczywiście alternatywa dla narzędzi oferowanych przez tą firmę a raczej dopełnienie funkcjonalności, których w tej chwili trudno szukać.&lt;/p&gt;
 &lt;p&gt;Strona projektu znajduje się na razie na &lt;a href=&#34;http://projects.code-house.org/wiki/sm-ide&#34;&gt;wiki&lt;/a&gt; bug trackera Code-House i jest na nim kilka informacji odnośnie celów projektu i nawet parę zadań. :-) Na pytanie kiedy pojawi się działająca wersja ciężko nam odpowiedzieć ponieważ w obecnej chwili siły przerobowe naszej firmy oprócz zaangażowania w kontrakt muszą podołać przygotowaniu akcji marketingowej w prasie oraz internecie. Miejmy nadzieję, że przed końcem wakacji pojawi się działająca wersja. Oczywiście nie jest to jedyny sposób w jaki Code-House wspiera społeczność projektu Apache ServiceMix, w planach mamy wspomaganie paru komponentów które wzbogacą funkcjonalność magistrali.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Materiały z Eclipse DemoCamp</title>
-      <link>http://localhost:1313/2009/06/materialy-z-eclipse-democamp/</link>
+      <link>http://blog.code-house.org/2009/06/materialy-z-eclipse-democamp/</link>
       <pubDate>Wed, 03 Jun 2009 15:45:25 +0000</pubDate>
-      <guid>http://localhost:1313/2009/06/materialy-z-eclipse-democamp/</guid>
-      <description>&lt;p&gt;Zgodnie z obietnicą z &lt;a href=&#34;http://localhost:1313/2009/05/warszawski-eclipse-democamp-galileo-2009/&#34;&gt;poprzedniego&lt;/a&gt; postu zamieszczam materiały z prezentacji którą wczoraj przeprowadziłem w ramach &lt;a href=&#34;http://groups.google.com/group/warszawa-jug/web/eclipse-democamp-2009&#34;&gt;Warszawskiego Eclipse DemoCamp Galileo 2009&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/wp-content/uploads/ide2.png&#34;&gt;&lt;img alt=&#34;Spring IDE&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/wp-content/uploads/ide2-300x179.png&#34;&gt;&lt;/a&gt; Celem prezentacji było dodanie obsługi nowej (niestandardowej) przestrzeni nazw w Spring IDE. Jako dobry przykład rozbudowanej przestrzeni nazw wybrałem konfigurację komponentu &lt;a href=&#34;http://servicemix.apache.org/SM/servicemix-file.html&#34;&gt;servicemix-file&lt;/a&gt;. Jako że nie udało mi się przed prezentacją zmusić &lt;a href=&#34;http://geronimo.apache.org/xbean/&#34;&gt;Apache XBean&lt;/a&gt; do pracy wewnątrz Eclipse musiałem stworzyć własny namespace handler. Dopiero wczoraj, późno w nocy stworzyłem &lt;a href=&#34;https://issues.apache.org/jira/browse/XBEAN-132&#34;&gt;patch&lt;/a&gt; który umożliwia podpięcie normalnego handlera. Jakkolwiek przykład dla spójności pozostał ze starym kodem.&lt;/p&gt;</description>
+      <guid>http://blog.code-house.org/2009/06/materialy-z-eclipse-democamp/</guid>
+      <description>&lt;p&gt;Zgodnie z obietnicą z &lt;a href=&#34;http://blog.code-house.org/2009/05/warszawski-eclipse-democamp-galileo-2009/&#34;&gt;poprzedniego&lt;/a&gt; postu zamieszczam materiały z prezentacji którą wczoraj przeprowadziłem w ramach &lt;a href=&#34;http://groups.google.com/group/warszawa-jug/web/eclipse-democamp-2009&#34;&gt;Warszawskiego Eclipse DemoCamp Galileo 2009&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.code-house.org/wp-content/uploads/ide2.png&#34;&gt;&lt;img alt=&#34;Spring IDE&#34; loading=&#34;lazy&#34; src=&#34;http://blog.code-house.org/wp-content/uploads/ide2-300x179.png&#34;&gt;&lt;/a&gt; Celem prezentacji było dodanie obsługi nowej (niestandardowej) przestrzeni nazw w Spring IDE. Jako dobry przykład rozbudowanej przestrzeni nazw wybrałem konfigurację komponentu &lt;a href=&#34;http://servicemix.apache.org/SM/servicemix-file.html&#34;&gt;servicemix-file&lt;/a&gt;. Jako że nie udało mi się przed prezentacją zmusić &lt;a href=&#34;http://geronimo.apache.org/xbean/&#34;&gt;Apache XBean&lt;/a&gt; do pracy wewnątrz Eclipse musiałem stworzyć własny namespace handler. Dopiero wczoraj, późno w nocy stworzyłem &lt;a href=&#34;https://issues.apache.org/jira/browse/XBEAN-132&#34;&gt;patch&lt;/a&gt; który umożliwia podpięcie normalnego handlera. Jakkolwiek przykład dla spójności pozostał ze starym kodem.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Warszawski Eclipse DemoCamp Galileo 2009</title>
-      <link>http://localhost:1313/2009/05/warszawski-eclipse-democamp-galileo-2009/</link>
+      <link>http://blog.code-house.org/2009/05/warszawski-eclipse-democamp-galileo-2009/</link>
       <pubDate>Sat, 30 May 2009 12:01:26 +0000</pubDate>
-      <guid>http://localhost:1313/2009/05/warszawski-eclipse-democamp-galileo-2009/</guid>
+      <guid>http://blog.code-house.org/2009/05/warszawski-eclipse-democamp-galileo-2009/</guid>
       <description>&lt;p&gt;W dniu 2 czerwca 2009 odbędzie się &lt;a href=&#34;http://groups.google.com/group/warszawa-jug/web/eclipse-democamp-2009&#34;&gt;Warszawski Eclipse DemoCamp Galileo 2009&lt;/a&gt;, nasza firma wspiera to wydarzenie merytorycznie oraz finansowo. Głównym sponsorem jest &lt;a href=&#34;http://www.eclipse.org/&#34;&gt;fundacja Eclipse&lt;/a&gt;.
 Działanie to doskonale wpisuje się w profil naszej firmy, której celem jest współpraca ze społecznością oraz promowanie rozwiązań Open Source - Spring IDE - o którym będzie mowa to projekt z otwartym kodem źródłowym rozwijanym w dużej mierze przez &lt;a href=&#34;http://springsource.com&#34;&gt;SpringSource&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Tematy które będą prezentowane:&lt;/p&gt;

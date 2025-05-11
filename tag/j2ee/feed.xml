@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>J2ee on The Code-House Blog</title>
-    <link>http://localhost:1313/tag/j2ee/</link>
+    <link>http://blog.code-house.org/tag/j2ee/</link>
     <description>Recent content in J2ee on The Code-House Blog</description>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo -- 0.147.0</generator>
     <language>pl-PL</language>
     <lastBuildDate>Fri, 04 Sep 2009 13:31:45 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tag/j2ee/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://blog.code-house.org/tag/j2ee/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dwie klasy redukujące ilość kodu w encjach JPA</title>
-      <link>http://localhost:1313/2009/09/dwie-klasy-redukujace-ilosc-kodu-w-encjach-jpa/</link>
+      <link>http://blog.code-house.org/2009/09/dwie-klasy-redukujace-ilosc-kodu-w-encjach-jpa/</link>
       <pubDate>Fri, 04 Sep 2009 13:31:45 +0000</pubDate>
-      <guid>http://localhost:1313/2009/09/dwie-klasy-redukujace-ilosc-kodu-w-encjach-jpa/</guid>
+      <guid>http://blog.code-house.org/2009/09/dwie-klasy-redukujace-ilosc-kodu-w-encjach-jpa/</guid>
       <description>&lt;p&gt;Z pewnością nie jest to odkrycie godne podziwu czy też coś, co może realizować z nowinkami JPA 2.0, nie mniej jest to kod bez którego żaden projekt obejść się nie może - mianowicie identyfikacja encji.&lt;/p&gt;
 &lt;p&gt;Borykałem się z problemem dosyć pospolitym, mianowicie pozbyciem się z każdej encji kodu:
 [sourcecode lang=&amp;ldquo;java&amp;rdquo;]@Id
