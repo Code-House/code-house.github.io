@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Open-Source on The Code-House Blog</title>
-    <link>http://blog.code-house.org/category/open-source/</link>
+    <link>https://blog.code-house.org/category/open-source/</link>
     <description>Recent content in Open-Source on The Code-House Blog</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>pl-PL</language>
     <lastBuildDate>Wed, 15 Dec 2010 12:05:49 +0000</lastBuildDate>
-    <atom:link href="http://blog.code-house.org/category/open-source/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.code-house.org/category/open-source/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apache Karaf commands rediscovered</title>
-      <link>http://blog.code-house.org/2010/12/apache-karaf-commands-rediscovered/</link>
+      <link>https://blog.code-house.org/2010/12/apache-karaf-commands-rediscovered/</link>
       <pubDate>Wed, 15 Dec 2010 12:05:49 +0000</pubDate>
-      <guid>http://blog.code-house.org/2010/12/apache-karaf-commands-rediscovered/</guid>
+      <guid>https://blog.code-house.org/2010/12/apache-karaf-commands-rediscovered/</guid>
       <description>&lt;p&gt;I work with Apache Karaf almost every day. There is a lot of commands provided by default and most of them are a bit anonymous. In this post I would like introduce these commands.&lt;/p&gt;
 &lt;h2 id=&#34;list-bundles&#34;&gt;List bundles&lt;/h2&gt;
 &lt;p&gt;Common command executed in Karaf shell is &lt;strong&gt;list&lt;/strong&gt;. There is few switches which makes this command more usable. First of them is &lt;strong&gt;-l&lt;/strong&gt; which shows bundle locations, second is &lt;strong&gt;-t&lt;/strong&gt;. Second switch is available from Karaf 2.1.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Praktyki studenckie w Code-House</title>
-      <link>http://blog.code-house.org/2010/04/praktyki-studenckie-w-code-house/</link>
+      <link>https://blog.code-house.org/2010/04/praktyki-studenckie-w-code-house/</link>
       <pubDate>Tue, 13 Apr 2010 11:35:52 +0000</pubDate>
-      <guid>http://blog.code-house.org/2010/04/praktyki-studenckie-w-code-house/</guid>
+      <guid>https://blog.code-house.org/2010/04/praktyki-studenckie-w-code-house/</guid>
       <description>&lt;p&gt;Jakiś czas temu &lt;a href=&#34;http://jaceklaskowski.pl/&#34;&gt;Jacek Laskowski&lt;/a&gt; wspominał o &lt;a href=&#34;http://jlaskowski.blogspot.com/2010/03/praktyki-studenckie-w-ibm-ta-edycja.html&#34;&gt;praktykach studenckich w IBM&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Celem praktyk w IBM jest zapoznanie się z produktami korporacji, praktyki w Code-House mają nieco inny wymiar - przede wszystkim technologiczny. Część z dziedzin, w których obracamy się obecnie przy okazji ServiceMixa jest nieco futurystyczna (OSGi R 4.2, dOSGi), część za to bardzo praktyczna np. szerokie użycie Mavena oraz Spring Framework czy JAX-WS/JAX-RS. &lt;strong&gt;Cały kod, który powstanie w wyniku praktyk będzie opublikowany na licencji Apache 2.0 i udostępniony publicznie&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Wprowadzenie do Apache ServiceMix 4 cz. 1</title>
-      <link>http://blog.code-house.org/2010/03/introduction-to-apache-servicemix4-part-1/</link>
+      <link>https://blog.code-house.org/2010/03/introduction-to-apache-servicemix4-part-1/</link>
       <pubDate>Mon, 22 Mar 2010 11:19:50 +0000</pubDate>
-      <guid>http://blog.code-house.org/2010/03/introduction-to-apache-servicemix4-part-1/</guid>
+      <guid>https://blog.code-house.org/2010/03/introduction-to-apache-servicemix4-part-1/</guid>
       <description>&lt;p&gt;Dnia 23 lutego w ramach Warszawa JUG miałem przyjemność wraz z &lt;a href=&#34;http://nurkiewicz.blogspot.com/&#34;&gt;Tomkiem Nurkiewiczem&lt;/a&gt; prezentować narzędzia integracyjne z otwartym kodem źródłowym. Tomek przedstawił Mule ESB, podczas gdy ja zająłem się Apache ServiceMix i Apache Camel. Ze względu na objętość przykładu ten wpis będzie jedynie wprowadzeniem do konsoli.&lt;/p&gt;
 &lt;p&gt;Niestety podczas prezentacji nie udało mi się uruchomić przykładu na &amp;ldquo;szynie&amp;rdquo; - ponieważ uniemożliwiły to zależności do bibliotek których nie miałem zapisanych lokalnie. Drugim mym przeciwnikiem był czas - nie było wielu chętnych by słuchać po 2h tłumaczeń dlaczego się nie udało :-) Na problem z zależnościami stworzyłem rozwiązanie i zgłosiłem je do Karaf-a ( &lt;a href=&#34;https://issues.apache.org/jira/browse/FELIX-2141&#34;&gt;FELIX 2141&lt;/a&gt;). W przyszłej wersji - 1.6 - wszyscy będą mogli skorzystać z polecenia &lt;code&gt;features:info -t&lt;/code&gt; które wyświetli całe drzewko zależności potrzebnych do zainstalowania nowych funkcjonalności.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Spring 3.0 RC3 &#43; Maven</title>
-      <link>http://blog.code-house.org/2009/12/spring-3-0-rc3-maven/</link>
+      <link>https://blog.code-house.org/2009/12/spring-3-0-rc3-maven/</link>
       <pubDate>Tue, 01 Dec 2009 18:25:34 +0000</pubDate>
-      <guid>http://blog.code-house.org/2009/12/spring-3-0-rc3-maven/</guid>
+      <guid>https://blog.code-house.org/2009/12/spring-3-0-rc3-maven/</guid>
       <description>&lt;p&gt;Właśnie wyłapałem na Twitterze, że &lt;a href=&#34;http://www.springsource.com/download?project=Spring%20Framework&#34;&gt;Spring 3.0 RC3&lt;/a&gt; został wydany.&lt;/p&gt;
 &lt;p&gt;Dla tych, którzy chcieli by pobrać nową wersję do swojego projektu opartego o Mavena drobna informacja - repozytorium z tymi artefaktami znajduje się pod adresem &lt;a href=&#34;http://maven.springframework.org/milestone&#34;&gt;http://maven.springframework.org/milestone&lt;/a&gt;. Miejmy nadzieję, że będzie to repozytorium które się nie zmieni po 3 miesiącach na inne.&lt;/p&gt;
 &lt;p&gt;W razie problemów - można zawsze skorzystać z repozytorium utrzymywanego na &lt;a href=&#34;http://repository.code-house.org/content/repositories/com.springsource.repository.bundles.milestone/&#34;&gt;serwerze Code-House&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>ServiceMix IDE integration</title>
-      <link>http://blog.code-house.org/2009/07/servicemix-ide-integration/</link>
+      <link>https://blog.code-house.org/2009/07/servicemix-ide-integration/</link>
       <pubDate>Tue, 07 Jul 2009 06:00:20 +0000</pubDate>
-      <guid>http://blog.code-house.org/2009/07/servicemix-ide-integration/</guid>
-      <description>&lt;p&gt;Jakiś czas temu &lt;a href=&#34;http://blog.code-house.org/2009/05/warszawski-eclipse-democamp-galileo-2009/&#34;&gt;zapraszaliśmy na tym blogu&lt;/a&gt; zainteresowanych na Warszawski Eclipse DemoCamp Galileo 2009. Jest nam niezmiernie miło ogłosić, że temat poruszany na tym spotkaniu przez Code-House Software został kontynuowany. Wsparcie dla &lt;a href=&#34;http://servicemix.apache.org/&#34;&gt;Apache ServiceMix&lt;/a&gt; w oparciu o &lt;a href=&#34;http://springide.org&#34;&gt;Spring IDE&lt;/a&gt; zainteresowało społeczność jak i organizacje skupione wokół projektu, między innymi &lt;a href=&#34;http://fusesource.com/&#34;&gt;FUSE Source&lt;/a&gt;. Nie będzie to oczywiście alternatywa dla narzędzi oferowanych przez tą firmę a raczej dopełnienie funkcjonalności, których w tej chwili trudno szukać.&lt;/p&gt;
+      <guid>https://blog.code-house.org/2009/07/servicemix-ide-integration/</guid>
+      <description>&lt;p&gt;Jakiś czas temu &lt;a href=&#34;https://blog.code-house.org/2009/05/warszawski-eclipse-democamp-galileo-2009/&#34;&gt;zapraszaliśmy na tym blogu&lt;/a&gt; zainteresowanych na Warszawski Eclipse DemoCamp Galileo 2009. Jest nam niezmiernie miło ogłosić, że temat poruszany na tym spotkaniu przez Code-House Software został kontynuowany. Wsparcie dla &lt;a href=&#34;http://servicemix.apache.org/&#34;&gt;Apache ServiceMix&lt;/a&gt; w oparciu o &lt;a href=&#34;http://springide.org&#34;&gt;Spring IDE&lt;/a&gt; zainteresowało społeczność jak i organizacje skupione wokół projektu, między innymi &lt;a href=&#34;http://fusesource.com/&#34;&gt;FUSE Source&lt;/a&gt;. Nie będzie to oczywiście alternatywa dla narzędzi oferowanych przez tą firmę a raczej dopełnienie funkcjonalności, których w tej chwili trudno szukać.&lt;/p&gt;
 &lt;p&gt;Strona projektu znajduje się na razie na &lt;a href=&#34;http://projects.code-house.org/wiki/sm-ide&#34;&gt;wiki&lt;/a&gt; bug trackera Code-House i jest na nim kilka informacji odnośnie celów projektu i nawet parę zadań. :-) Na pytanie kiedy pojawi się działająca wersja ciężko nam odpowiedzieć ponieważ w obecnej chwili siły przerobowe naszej firmy oprócz zaangażowania w kontrakt muszą podołać przygotowaniu akcji marketingowej w prasie oraz internecie. Miejmy nadzieję, że przed końcem wakacji pojawi się działająca wersja. Oczywiście nie jest to jedyny sposób w jaki Code-House wspiera społeczność projektu Apache ServiceMix, w planach mamy wspomaganie paru komponentów które wzbogacą funkcjonalność magistrali.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Materiały z Eclipse DemoCamp</title>
-      <link>http://blog.code-house.org/2009/06/materialy-z-eclipse-democamp/</link>
+      <link>https://blog.code-house.org/2009/06/materialy-z-eclipse-democamp/</link>
       <pubDate>Wed, 03 Jun 2009 15:45:25 +0000</pubDate>
-      <guid>http://blog.code-house.org/2009/06/materialy-z-eclipse-democamp/</guid>
-      <description>&lt;p&gt;Zgodnie z obietnicą z &lt;a href=&#34;http://blog.code-house.org/2009/05/warszawski-eclipse-democamp-galileo-2009/&#34;&gt;poprzedniego&lt;/a&gt; postu zamieszczam materiały z prezentacji którą wczoraj przeprowadziłem w ramach &lt;a href=&#34;http://groups.google.com/group/warszawa-jug/web/eclipse-democamp-2009&#34;&gt;Warszawskiego Eclipse DemoCamp Galileo 2009&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://blog.code-house.org/wp-content/uploads/ide2.png&#34;&gt;&lt;img alt=&#34;Spring IDE&#34; loading=&#34;lazy&#34; src=&#34;http://blog.code-house.org/wp-content/uploads/ide2-300x179.png&#34;&gt;&lt;/a&gt; Celem prezentacji było dodanie obsługi nowej (niestandardowej) przestrzeni nazw w Spring IDE. Jako dobry przykład rozbudowanej przestrzeni nazw wybrałem konfigurację komponentu &lt;a href=&#34;http://servicemix.apache.org/SM/servicemix-file.html&#34;&gt;servicemix-file&lt;/a&gt;. Jako że nie udało mi się przed prezentacją zmusić &lt;a href=&#34;http://geronimo.apache.org/xbean/&#34;&gt;Apache XBean&lt;/a&gt; do pracy wewnątrz Eclipse musiałem stworzyć własny namespace handler. Dopiero wczoraj, późno w nocy stworzyłem &lt;a href=&#34;https://issues.apache.org/jira/browse/XBEAN-132&#34;&gt;patch&lt;/a&gt; który umożliwia podpięcie normalnego handlera. Jakkolwiek przykład dla spójności pozostał ze starym kodem.&lt;/p&gt;</description>
+      <guid>https://blog.code-house.org/2009/06/materialy-z-eclipse-democamp/</guid>
+      <description>&lt;p&gt;Zgodnie z obietnicą z &lt;a href=&#34;https://blog.code-house.org/2009/05/warszawski-eclipse-democamp-galileo-2009/&#34;&gt;poprzedniego&lt;/a&gt; postu zamieszczam materiały z prezentacji którą wczoraj przeprowadziłem w ramach &lt;a href=&#34;http://groups.google.com/group/warszawa-jug/web/eclipse-democamp-2009&#34;&gt;Warszawskiego Eclipse DemoCamp Galileo 2009&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.code-house.org/wp-content/uploads/ide2.png&#34;&gt;&lt;img alt=&#34;Spring IDE&#34; loading=&#34;lazy&#34; src=&#34;https://blog.code-house.org/wp-content/uploads/ide2-300x179.png&#34;&gt;&lt;/a&gt; Celem prezentacji było dodanie obsługi nowej (niestandardowej) przestrzeni nazw w Spring IDE. Jako dobry przykład rozbudowanej przestrzeni nazw wybrałem konfigurację komponentu &lt;a href=&#34;http://servicemix.apache.org/SM/servicemix-file.html&#34;&gt;servicemix-file&lt;/a&gt;. Jako że nie udało mi się przed prezentacją zmusić &lt;a href=&#34;http://geronimo.apache.org/xbean/&#34;&gt;Apache XBean&lt;/a&gt; do pracy wewnątrz Eclipse musiałem stworzyć własny namespace handler. Dopiero wczoraj, późno w nocy stworzyłem &lt;a href=&#34;https://issues.apache.org/jira/browse/XBEAN-132&#34;&gt;patch&lt;/a&gt; który umożliwia podpięcie normalnego handlera. Jakkolwiek przykład dla spójności pozostał ze starym kodem.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Warszawski Eclipse DemoCamp Galileo 2009</title>
-      <link>http://blog.code-house.org/2009/05/warszawski-eclipse-democamp-galileo-2009/</link>
+      <link>https://blog.code-house.org/2009/05/warszawski-eclipse-democamp-galileo-2009/</link>
       <pubDate>Sat, 30 May 2009 12:01:26 +0000</pubDate>
-      <guid>http://blog.code-house.org/2009/05/warszawski-eclipse-democamp-galileo-2009/</guid>
+      <guid>https://blog.code-house.org/2009/05/warszawski-eclipse-democamp-galileo-2009/</guid>
       <description>&lt;p&gt;W dniu 2 czerwca 2009 odbędzie się &lt;a href=&#34;http://groups.google.com/group/warszawa-jug/web/eclipse-democamp-2009&#34;&gt;Warszawski Eclipse DemoCamp Galileo 2009&lt;/a&gt;, nasza firma wspiera to wydarzenie merytorycznie oraz finansowo. Głównym sponsorem jest &lt;a href=&#34;http://www.eclipse.org/&#34;&gt;fundacja Eclipse&lt;/a&gt;.
 Działanie to doskonale wpisuje się w profil naszej firmy, której celem jest współpraca ze społecznością oraz promowanie rozwiązań Open Source - Spring IDE - o którym będzie mowa to projekt z otwartym kodem źródłowym rozwijanym w dużej mierze przez &lt;a href=&#34;http://springsource.com&#34;&gt;SpringSource&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Tematy które będą prezentowane:&lt;/p&gt;
@@ -78,17 +78,17 @@ Działanie to doskonale wpisuje się w profil naszej firmy, której celem jest w
     </item>
     <item>
       <title>Szukasz Eclipse? Jest na Code-House!</title>
-      <link>http://blog.code-house.org/2009/05/szukasz-eclipse-jest-code-house/</link>
+      <link>https://blog.code-house.org/2009/05/szukasz-eclipse-jest-code-house/</link>
       <pubDate>Thu, 14 May 2009 19:39:57 +0000</pubDate>
-      <guid>http://blog.code-house.org/2009/05/szukasz-eclipse-jest-code-house/</guid>
+      <guid>https://blog.code-house.org/2009/05/szukasz-eclipse-jest-code-house/</guid>
       <description>&lt;p&gt;Z ogromną przyjemnością pragniemy poinformować, że od 2 dni z naszego serwera można pobrać wszystkie projekty rozwijane w ramach fundacji &lt;a href=&#34;http://eclipse.org&#34;&gt;Eclipse&lt;/a&gt;. Dołączyliśmy tym samym do grona 2 innych polskich mirrorów.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://blog.code-house.org/wp-content/uploads/eclipse-mirror1.png&#34;&gt;&lt;img alt=&#34;Pobieramy z Code-House&#34; loading=&#34;lazy&#34; src=&#34;http://blog.code-house.org/wp-content/uploads/eclipse-mirror1.png&#34;&gt;&lt;/a&gt; Od strony technicznej mirror jest uruchomiony na &lt;a href=&#34;http://www.lighttpd.net/&#34;&gt;lighthttpd&lt;/a&gt;, oddzielnym IP oraz dedykowanym dysku USB 600 GB. Serwer stoi na łączu 100 mbps, stąd osiągane transfery powinny być zadowalające i użytkownicy szerokopasmowych łączy nie powinni odczuwać żadnego spowolnienia. Na naszym firmowym łączu - 10 mbps - udało się osiągnąć ponad 1M/s, czyli tyle ile fabryka dała! :-)&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://blog.code-house.org/wp-content/uploads/eclipse-mirror1.png&#34;&gt;&lt;img alt=&#34;Pobieramy z Code-House&#34; loading=&#34;lazy&#34; src=&#34;https://blog.code-house.org/wp-content/uploads/eclipse-mirror1.png&#34;&gt;&lt;/a&gt; Od strony technicznej mirror jest uruchomiony na &lt;a href=&#34;http://www.lighttpd.net/&#34;&gt;lighthttpd&lt;/a&gt;, oddzielnym IP oraz dedykowanym dysku USB 600 GB. Serwer stoi na łączu 100 mbps, stąd osiągane transfery powinny być zadowalające i użytkownicy szerokopasmowych łączy nie powinni odczuwać żadnego spowolnienia. Na naszym firmowym łączu - 10 mbps - udało się osiągnąć ponad 1M/s, czyli tyle ile fabryka dała! :-)&lt;/p&gt;</description>
     </item>
     <item>
       <title>SpringSource kupuje Hyperic</title>
-      <link>http://blog.code-house.org/2009/05/springsource-kupuje-hyperic/</link>
+      <link>https://blog.code-house.org/2009/05/springsource-kupuje-hyperic/</link>
       <pubDate>Wed, 06 May 2009 06:55:24 +0000</pubDate>
-      <guid>http://blog.code-house.org/2009/05/springsource-kupuje-hyperic/</guid>
+      <guid>https://blog.code-house.org/2009/05/springsource-kupuje-hyperic/</guid>
       <description>&lt;p&gt;Branża IT ostatnimi czasy jest targana coraz to nowymi wiadomościami o łączeniu się firm. Początkowe spekulacje o tym, że &lt;a href=&#34;http://ibm.com&#34;&gt;IBM&lt;/a&gt; chcę przejąć Javę zakończyły się tym, że &lt;a href=&#34;http://oracle.com&#34;&gt;Oracle&lt;/a&gt; kupiło &lt;a href=&#34;http://sun.com&#34;&gt;Sun Microsystems&lt;/a&gt;. Wywołało to nie lada falę w społeczności z pytaniami co dalej z Javą i bazą &lt;a href=&#34;http://mysql.com&#34;&gt;MySQL&lt;/a&gt;?&lt;/p&gt;
 &lt;p&gt;Nie będziemy jednak roztrząsać strategii takiego giganta jak Oracle, ponieważ jest już świeższy news. :) Dwa dni temu, dokładnie 4 maja 2009 &lt;a href=&#34;http://springsource.com/&#34;&gt;SpringSource&lt;/a&gt; przejęło &lt;a href=&#34;http://hyperic.com&#34;&gt;Hyperic&lt;/a&gt;. O ile pierwsza nazwa jest zapewne znana większości z Was o tyle druga może być niejasna.&lt;/p&gt;</description>
     </item>

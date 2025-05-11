@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Pages on The Code-House Blog</title>
-    <link>http://blog.code-house.org/pages/</link>
+    <link>https://blog.code-house.org/pages/</link>
     <description>Recent content in Pages on The Code-House Blog</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>pl-PL</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://blog.code-house.org/pages/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.code-house.org/pages/feed.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Eclipse on The Code-House Blog</title>
-    <link>http://blog.code-house.org/category/eclipse/</link>
+    <link>https://blog.code-house.org/category/eclipse/</link>
     <description>Recent content in Eclipse on The Code-House Blog</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>pl-PL</language>
     <lastBuildDate>Wed, 03 Jun 2009 15:45:25 +0000</lastBuildDate>
-    <atom:link href="http://blog.code-house.org/category/eclipse/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.code-house.org/category/eclipse/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Materiały z Eclipse DemoCamp</title>
-      <link>http://blog.code-house.org/2009/06/materialy-z-eclipse-democamp/</link>
+      <link>https://blog.code-house.org/2009/06/materialy-z-eclipse-democamp/</link>
       <pubDate>Wed, 03 Jun 2009 15:45:25 +0000</pubDate>
-      <guid>http://blog.code-house.org/2009/06/materialy-z-eclipse-democamp/</guid>
-      <description>&lt;p&gt;Zgodnie z obietnicą z &lt;a href=&#34;http://blog.code-house.org/2009/05/warszawski-eclipse-democamp-galileo-2009/&#34;&gt;poprzedniego&lt;/a&gt; postu zamieszczam materiały z prezentacji którą wczoraj przeprowadziłem w ramach &lt;a href=&#34;http://groups.google.com/group/warszawa-jug/web/eclipse-democamp-2009&#34;&gt;Warszawskiego Eclipse DemoCamp Galileo 2009&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://blog.code-house.org/wp-content/uploads/ide2.png&#34;&gt;&lt;img alt=&#34;Spring IDE&#34; loading=&#34;lazy&#34; src=&#34;http://blog.code-house.org/wp-content/uploads/ide2-300x179.png&#34;&gt;&lt;/a&gt; Celem prezentacji było dodanie obsługi nowej (niestandardowej) przestrzeni nazw w Spring IDE. Jako dobry przykład rozbudowanej przestrzeni nazw wybrałem konfigurację komponentu &lt;a href=&#34;http://servicemix.apache.org/SM/servicemix-file.html&#34;&gt;servicemix-file&lt;/a&gt;. Jako że nie udało mi się przed prezentacją zmusić &lt;a href=&#34;http://geronimo.apache.org/xbean/&#34;&gt;Apache XBean&lt;/a&gt; do pracy wewnątrz Eclipse musiałem stworzyć własny namespace handler. Dopiero wczoraj, późno w nocy stworzyłem &lt;a href=&#34;https://issues.apache.org/jira/browse/XBEAN-132&#34;&gt;patch&lt;/a&gt; który umożliwia podpięcie normalnego handlera. Jakkolwiek przykład dla spójności pozostał ze starym kodem.&lt;/p&gt;</description>
+      <guid>https://blog.code-house.org/2009/06/materialy-z-eclipse-democamp/</guid>
+      <description>&lt;p&gt;Zgodnie z obietnicą z &lt;a href=&#34;https://blog.code-house.org/2009/05/warszawski-eclipse-democamp-galileo-2009/&#34;&gt;poprzedniego&lt;/a&gt; postu zamieszczam materiały z prezentacji którą wczoraj przeprowadziłem w ramach &lt;a href=&#34;http://groups.google.com/group/warszawa-jug/web/eclipse-democamp-2009&#34;&gt;Warszawskiego Eclipse DemoCamp Galileo 2009&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.code-house.org/wp-content/uploads/ide2.png&#34;&gt;&lt;img alt=&#34;Spring IDE&#34; loading=&#34;lazy&#34; src=&#34;https://blog.code-house.org/wp-content/uploads/ide2-300x179.png&#34;&gt;&lt;/a&gt; Celem prezentacji było dodanie obsługi nowej (niestandardowej) przestrzeni nazw w Spring IDE. Jako dobry przykład rozbudowanej przestrzeni nazw wybrałem konfigurację komponentu &lt;a href=&#34;http://servicemix.apache.org/SM/servicemix-file.html&#34;&gt;servicemix-file&lt;/a&gt;. Jako że nie udało mi się przed prezentacją zmusić &lt;a href=&#34;http://geronimo.apache.org/xbean/&#34;&gt;Apache XBean&lt;/a&gt; do pracy wewnątrz Eclipse musiałem stworzyć własny namespace handler. Dopiero wczoraj, późno w nocy stworzyłem &lt;a href=&#34;https://issues.apache.org/jira/browse/XBEAN-132&#34;&gt;patch&lt;/a&gt; który umożliwia podpięcie normalnego handlera. Jakkolwiek przykład dla spójności pozostał ze starym kodem.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Warszawski Eclipse DemoCamp Galileo 2009</title>
-      <link>http://blog.code-house.org/2009/05/warszawski-eclipse-democamp-galileo-2009/</link>
+      <link>https://blog.code-house.org/2009/05/warszawski-eclipse-democamp-galileo-2009/</link>
       <pubDate>Sat, 30 May 2009 12:01:26 +0000</pubDate>
-      <guid>http://blog.code-house.org/2009/05/warszawski-eclipse-democamp-galileo-2009/</guid>
+      <guid>https://blog.code-house.org/2009/05/warszawski-eclipse-democamp-galileo-2009/</guid>
       <description>&lt;p&gt;W dniu 2 czerwca 2009 odbędzie się &lt;a href=&#34;http://groups.google.com/group/warszawa-jug/web/eclipse-democamp-2009&#34;&gt;Warszawski Eclipse DemoCamp Galileo 2009&lt;/a&gt;, nasza firma wspiera to wydarzenie merytorycznie oraz finansowo. Głównym sponsorem jest &lt;a href=&#34;http://www.eclipse.org/&#34;&gt;fundacja Eclipse&lt;/a&gt;.
 Działanie to doskonale wpisuje się w profil naszej firmy, której celem jest współpraca ze społecznością oraz promowanie rozwiązań Open Source - Spring IDE - o którym będzie mowa to projekt z otwartym kodem źródłowym rozwijanym w dużej mierze przez &lt;a href=&#34;http://springsource.com&#34;&gt;SpringSource&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Tematy które będą prezentowane:&lt;/p&gt;
@@ -36,11 +36,11 @@ Działanie to doskonale wpisuje się w profil naszej firmy, której celem jest w
     </item>
     <item>
       <title>Szukasz Eclipse? Jest na Code-House!</title>
-      <link>http://blog.code-house.org/2009/05/szukasz-eclipse-jest-code-house/</link>
+      <link>https://blog.code-house.org/2009/05/szukasz-eclipse-jest-code-house/</link>
       <pubDate>Thu, 14 May 2009 19:39:57 +0000</pubDate>
-      <guid>http://blog.code-house.org/2009/05/szukasz-eclipse-jest-code-house/</guid>
+      <guid>https://blog.code-house.org/2009/05/szukasz-eclipse-jest-code-house/</guid>
       <description>&lt;p&gt;Z ogromną przyjemnością pragniemy poinformować, że od 2 dni z naszego serwera można pobrać wszystkie projekty rozwijane w ramach fundacji &lt;a href=&#34;http://eclipse.org&#34;&gt;Eclipse&lt;/a&gt;. Dołączyliśmy tym samym do grona 2 innych polskich mirrorów.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://blog.code-house.org/wp-content/uploads/eclipse-mirror1.png&#34;&gt;&lt;img alt=&#34;Pobieramy z Code-House&#34; loading=&#34;lazy&#34; src=&#34;http://blog.code-house.org/wp-content/uploads/eclipse-mirror1.png&#34;&gt;&lt;/a&gt; Od strony technicznej mirror jest uruchomiony na &lt;a href=&#34;http://www.lighttpd.net/&#34;&gt;lighthttpd&lt;/a&gt;, oddzielnym IP oraz dedykowanym dysku USB 600 GB. Serwer stoi na łączu 100 mbps, stąd osiągane transfery powinny być zadowalające i użytkownicy szerokopasmowych łączy nie powinni odczuwać żadnego spowolnienia. Na naszym firmowym łączu - 10 mbps - udało się osiągnąć ponad 1M/s, czyli tyle ile fabryka dała! :-)&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://blog.code-house.org/wp-content/uploads/eclipse-mirror1.png&#34;&gt;&lt;img alt=&#34;Pobieramy z Code-House&#34; loading=&#34;lazy&#34; src=&#34;https://blog.code-house.org/wp-content/uploads/eclipse-mirror1.png&#34;&gt;&lt;/a&gt; Od strony technicznej mirror jest uruchomiony na &lt;a href=&#34;http://www.lighttpd.net/&#34;&gt;lighthttpd&lt;/a&gt;, oddzielnym IP oraz dedykowanym dysku USB 600 GB. Serwer stoi na łączu 100 mbps, stąd osiągane transfery powinny być zadowalające i użytkownicy szerokopasmowych łączy nie powinni odczuwać żadnego spowolnienia. Na naszym firmowym łączu - 10 mbps - udało się osiągnąć ponad 1M/s, czyli tyle ile fabryka dała! :-)&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -2,54 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Code-House on The Code-House Blog</title>
-    <link>http://blog.code-house.org/category/code-house/</link>
+    <link>https://blog.code-house.org/category/code-house/</link>
     <description>Recent content in Code-House on The Code-House Blog</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>pl-PL</language>
     <lastBuildDate>Wed, 13 Oct 2010 10:25:17 +0000</lastBuildDate>
-    <atom:link href="http://blog.code-house.org/category/code-house/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.code-house.org/category/code-house/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Własny widget w UiBinderze</title>
-      <link>http://blog.code-house.org/2010/10/wlasny-widget-w-uibinderze/</link>
+      <link>https://blog.code-house.org/2010/10/wlasny-widget-w-uibinderze/</link>
       <pubDate>Wed, 13 Oct 2010 10:25:17 +0000</pubDate>
-      <guid>http://blog.code-house.org/2010/10/wlasny-widget-w-uibinderze/</guid>
+      <guid>https://blog.code-house.org/2010/10/wlasny-widget-w-uibinderze/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://code.google.com/intl/pl/webtoolkit/doc/latest/DevGuideUiBinder.html&#34; title=&#34;UiBinder&#34;&gt;UiBinder&lt;/a&gt; jest rozszerzeniem, które pozwala nam szybko i bardzo przyjemnie stworzyć widok okienka w XML&amp;rsquo;u.  Dzięki niemu możemy oddzielić widok aplikacji webowej od logiki ją obsługującej w czystym &lt;a href=&#34;http://code.google.com/intl/pl/webtoolkit/&#34; title=&#34;GWT&#34;&gt;GWT&lt;/a&gt;. Sposób używania UiBinder&amp;rsquo;a jest bardzo dobrze opisany. Jednak już po chwili korzystania  z tego narzędzia wraz z klasami dostępnymi standardowo w GWT odczujemy mały niedosyt, że potrzebujemy tworzyć własne widgety, które będą kompatybilne z UiBinder&amp;rsquo;em albo będziemy musieli zrezygnować całkowicie z tego narzędzia.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Brakujący element Javarsovii</title>
-      <link>http://blog.code-house.org/2010/06/brakujacy-element-javarsovii/</link>
+      <link>https://blog.code-house.org/2010/06/brakujacy-element-javarsovii/</link>
       <pubDate>Fri, 11 Jun 2010 15:43:19 +0000</pubDate>
-      <guid>http://blog.code-house.org/2010/06/brakujacy-element-javarsovii/</guid>
+      <guid>https://blog.code-house.org/2010/06/brakujacy-element-javarsovii/</guid>
       <description>&lt;p&gt;Tegoroczna edycja konferencji Javarsovia jest bez wątpienia największym wydarzeniem tej kategorii w Polsce. Grono sponsorów i partnerów nafaszerowane gigantycznymi korporacjami ( &lt;a href=&#34;http://www.javarsovia.pl/news/33/72/IBM-partnerem-konferencji.html&#34;&gt;IBM&lt;/a&gt;, &lt;a href=&#34;http://www.javarsovia.pl/news/32/72/Oracle-Zlotym-Sponsorem.html&#34;&gt;Oracle&lt;/a&gt;, &lt;a href=&#34;http://www.javarsovia.pl/news/27/72/Microsoft-Zlotym-Sponsorem-Javarsovii-2010.html&#34;&gt;Microsoft&lt;/a&gt;, &lt;a href=&#34;http://www.javarsovia.pl/news/16/72/Adobe-sponsorem-Javarsovii-2010.html&#34;&gt;Adobe&lt;/a&gt;, &lt;a href=&#34;http://www.javarsovia.pl/news/20/72/Google-zlotym-sponsorem-Javarsovia-2010.html&#34;&gt;Google&lt;/a&gt;). Pomyśleć, że Code-House w zeszłym roku był sponsorem tej niewielkiej konferencji a w tym roku nie przyszło by nam rywalizować nawet o ławkę sponsorów rezerwowych. :-) Moje gratulacje dla kapituły przekazuję już teraz.&lt;/p&gt;
 &lt;p&gt;Wróćmy jednak do meritum - a mianowicie czego brakuje na Javarsovii. :-) Brakuje prelekcji o OSGi, które mimo porządnego wieku (10 lat) jest w dalszym ciągu nowością dla wielu developerów. Szczęśliwie, w ramach spotkań &lt;a href=&#34;http://groups.google.com/group/warszawa-jug/&#34;&gt;Warszawa JUG&lt;/a&gt; było zaplanowane spotkanie pt. &lt;strong&gt;Springowe spojrzenie na OSGi - Spring Dynamic Modules for OSGi(tm)&lt;/strong&gt; - które miał poprowadzić Jacek Lis. Niestety, Jacek w planowanym terminie (15 czerwiec) będzie poza Warszawą. Aby obronić OSGi i załatać deficyt tego tematu na Javarsovii (zgłaszałem się z OSGi R4.2 Enterprise do C4P), postanowiłem zastąpić Jacka i poprowadzić prezentację - której temat również ewoluował na &lt;strong&gt;Spring Dynamic Modules, Blueprint, OSGi - deklaratywne&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Praktyki studenckie w Code-House</title>
-      <link>http://blog.code-house.org/2010/04/praktyki-studenckie-w-code-house/</link>
+      <link>https://blog.code-house.org/2010/04/praktyki-studenckie-w-code-house/</link>
       <pubDate>Tue, 13 Apr 2010 11:35:52 +0000</pubDate>
-      <guid>http://blog.code-house.org/2010/04/praktyki-studenckie-w-code-house/</guid>
+      <guid>https://blog.code-house.org/2010/04/praktyki-studenckie-w-code-house/</guid>
       <description>&lt;p&gt;Jakiś czas temu &lt;a href=&#34;http://jaceklaskowski.pl/&#34;&gt;Jacek Laskowski&lt;/a&gt; wspominał o &lt;a href=&#34;http://jlaskowski.blogspot.com/2010/03/praktyki-studenckie-w-ibm-ta-edycja.html&#34;&gt;praktykach studenckich w IBM&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Celem praktyk w IBM jest zapoznanie się z produktami korporacji, praktyki w Code-House mają nieco inny wymiar - przede wszystkim technologiczny. Część z dziedzin, w których obracamy się obecnie przy okazji ServiceMixa jest nieco futurystyczna (OSGi R 4.2, dOSGi), część za to bardzo praktyczna np. szerokie użycie Mavena oraz Spring Framework czy JAX-WS/JAX-RS. &lt;strong&gt;Cały kod, który powstanie w wyniku praktyk będzie opublikowany na licencji Apache 2.0 i udostępniony publicznie&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Instalowanie oprogramowania Atlassian cz. 1</title>
-      <link>http://blog.code-house.org/2009/10/instalowanie-oprogramowania-atlassian-cz-1/</link>
+      <link>https://blog.code-house.org/2009/10/instalowanie-oprogramowania-atlassian-cz-1/</link>
       <pubDate>Fri, 16 Oct 2009 10:01:44 +0000</pubDate>
-      <guid>http://blog.code-house.org/2009/10/instalowanie-oprogramowania-atlassian-cz-1/</guid>
+      <guid>https://blog.code-house.org/2009/10/instalowanie-oprogramowania-atlassian-cz-1/</guid>
       <description>&lt;p&gt;Kilka dni temu trafiłem na informacje o tym, że firma Atlassian uruchomiła &amp;ldquo;promocję&amp;rdquo; w której wyprzedaje licencje startowe na swoje produkty za 10$. Tym oto sposobem za równowartość dobrego obuwia (niecałe 175 zł) wszedłem w posiadanie sześciu licencji na Crowd, Jira, GreenHopper, Confluence, Fisheye i Bamboo. W poście tym krótki opis instalacji na Tomcat 6.x pierwszych czterech.&lt;/p&gt;
 &lt;h2 id=&#34;przygotowania&#34;&gt;Przygotowania&lt;/h2&gt;
 &lt;p&gt;Uprzedzam, że instrukcja jest pisana z pamięci więc mogą pojawić się jakieś braki. W przypadku gdy instrukcja nie zadziała proszę o komentarz, a postaram się pomóc i uzupełnić wpis tak by był kompletny.
 Aby ułatwić sobie życie i zaoszczędzić pamięć na serwerze wszystkie produkty będzie obsługiwała jedna instancja Tomcat i PostgreSQL. Niestety Fisheye i Bamboo są dostępne tylko w wersji standalone, stąd proces ich instalacji będzie nieco inny. Zanim ruszymy z całością pobieramy od producenta oprogramowanie.
-&lt;img alt=&#34;Pobieranie Crowd&#34; loading=&#34;lazy&#34; src=&#34;http://blog.code-house.org/wp-content/uploads/crowd.jpg&#34;&gt;
+&lt;img alt=&#34;Pobieranie Crowd&#34; loading=&#34;lazy&#34; src=&#34;https://blog.code-house.org/wp-content/uploads/crowd.jpg&#34;&gt;
 Przeskakujemy na zakładkę Linux i następnie klikamy w prawym górnym rogu i pobieramy wersję standalone. Wykonujemy polecenie
 [bash]tar -xvzf atlassian-crowd-2.0.2.tar.gz[/bash]&lt;/p&gt;</description>
     </item>
     <item>
       <title>Javarsovia 2009</title>
-      <link>http://blog.code-house.org/2009/06/javarsovia-2009/</link>
+      <link>https://blog.code-house.org/2009/06/javarsovia-2009/</link>
       <pubDate>Mon, 29 Jun 2009 19:15:36 +0000</pubDate>
-      <guid>http://blog.code-house.org/2009/06/javarsovia-2009/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;Javarsovia Logo&#34; loading=&#34;lazy&#34; src=&#34;http://blog.code-house.org/wp-content/uploads/javarsovia.jpg&#34;&gt; W najbliższy weekend odbędzie się największa warszawska, darmowa, konferencja poświęcona Javie. Nasza firma wsparła przedsięwzięcie niewielką kwotą stąd też zapraszamy do wzięcia udziału w konferencji. :) Tematy zostały podzielone na trzy kategorie:&lt;/p&gt;
+      <guid>https://blog.code-house.org/2009/06/javarsovia-2009/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Javarsovia Logo&#34; loading=&#34;lazy&#34; src=&#34;https://blog.code-house.org/wp-content/uploads/javarsovia.jpg&#34;&gt; W najbliższy weekend odbędzie się największa warszawska, darmowa, konferencja poświęcona Javie. Nasza firma wsparła przedsięwzięcie niewielką kwotą stąd też zapraszamy do wzięcia udziału w konferencji. :) Tematy zostały podzielone na trzy kategorie:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Java - technologicznie, czyli o nowinkach i bibliotekach (7 prezentacji)&lt;/li&gt;
 &lt;li&gt;Java - pragmatycznie, optymalizacja, testy (8 prezentacji)&lt;/li&gt;
@@ -59,11 +59,11 @@ Przeskakujemy na zakładkę Linux i następnie klikamy w prawym górnym rogu i p
     </item>
     <item>
       <title>Szukasz Eclipse? Jest na Code-House!</title>
-      <link>http://blog.code-house.org/2009/05/szukasz-eclipse-jest-code-house/</link>
+      <link>https://blog.code-house.org/2009/05/szukasz-eclipse-jest-code-house/</link>
       <pubDate>Thu, 14 May 2009 19:39:57 +0000</pubDate>
-      <guid>http://blog.code-house.org/2009/05/szukasz-eclipse-jest-code-house/</guid>
+      <guid>https://blog.code-house.org/2009/05/szukasz-eclipse-jest-code-house/</guid>
       <description>&lt;p&gt;Z ogromną przyjemnością pragniemy poinformować, że od 2 dni z naszego serwera można pobrać wszystkie projekty rozwijane w ramach fundacji &lt;a href=&#34;http://eclipse.org&#34;&gt;Eclipse&lt;/a&gt;. Dołączyliśmy tym samym do grona 2 innych polskich mirrorów.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://blog.code-house.org/wp-content/uploads/eclipse-mirror1.png&#34;&gt;&lt;img alt=&#34;Pobieramy z Code-House&#34; loading=&#34;lazy&#34; src=&#34;http://blog.code-house.org/wp-content/uploads/eclipse-mirror1.png&#34;&gt;&lt;/a&gt; Od strony technicznej mirror jest uruchomiony na &lt;a href=&#34;http://www.lighttpd.net/&#34;&gt;lighthttpd&lt;/a&gt;, oddzielnym IP oraz dedykowanym dysku USB 600 GB. Serwer stoi na łączu 100 mbps, stąd osiągane transfery powinny być zadowalające i użytkownicy szerokopasmowych łączy nie powinni odczuwać żadnego spowolnienia. Na naszym firmowym łączu - 10 mbps - udało się osiągnąć ponad 1M/s, czyli tyle ile fabryka dała! :-)&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://blog.code-house.org/wp-content/uploads/eclipse-mirror1.png&#34;&gt;&lt;img alt=&#34;Pobieramy z Code-House&#34; loading=&#34;lazy&#34; src=&#34;https://blog.code-house.org/wp-content/uploads/eclipse-mirror1.png&#34;&gt;&lt;/a&gt; Od strony technicznej mirror jest uruchomiony na &lt;a href=&#34;http://www.lighttpd.net/&#34;&gt;lighthttpd&lt;/a&gt;, oddzielnym IP oraz dedykowanym dysku USB 600 GB. Serwer stoi na łączu 100 mbps, stąd osiągane transfery powinny być zadowalające i użytkownicy szerokopasmowych łączy nie powinni odczuwać żadnego spowolnienia. Na naszym firmowym łączu - 10 mbps - udało się osiągnąć ponad 1M/s, czyli tyle ile fabryka dała! :-)&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

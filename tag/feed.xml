@@ -2,94 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tag on The Code-House Blog</title>
-    <link>http://blog.code-house.org/tag/</link>
+    <link>https://blog.code-house.org/tag/</link>
     <description>Recent content in Tag on The Code-House Blog</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>pl-PL</language>
     <lastBuildDate>Wed, 15 Dec 2010 12:05:49 +0000</lastBuildDate>
-    <atom:link href="http://blog.code-house.org/tag/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.code-house.org/tag/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Moved</title>
-      <link>http://blog.code-house.org/tag/moved/</link>
+      <link>https://blog.code-house.org/tag/moved/</link>
       <pubDate>Wed, 15 Dec 2010 12:05:49 +0000</pubDate>
-      <guid>http://blog.code-house.org/tag/moved/</guid>
+      <guid>https://blog.code-house.org/tag/moved/</guid>
       <description></description>
     </item>
     <item>
       <title>Gwt</title>
-      <link>http://blog.code-house.org/tag/gwt/</link>
+      <link>https://blog.code-house.org/tag/gwt/</link>
       <pubDate>Wed, 13 Oct 2010 10:25:17 +0000</pubDate>
-      <guid>http://blog.code-house.org/tag/gwt/</guid>
+      <guid>https://blog.code-house.org/tag/gwt/</guid>
       <description></description>
     </item>
     <item>
       <title>Java</title>
-      <link>http://blog.code-house.org/tag/java/</link>
+      <link>https://blog.code-house.org/tag/java/</link>
       <pubDate>Wed, 13 Oct 2010 10:25:17 +0000</pubDate>
-      <guid>http://blog.code-house.org/tag/java/</guid>
+      <guid>https://blog.code-house.org/tag/java/</guid>
       <description></description>
     </item>
     <item>
       <title>Uibinder</title>
-      <link>http://blog.code-house.org/tag/uibinder/</link>
+      <link>https://blog.code-house.org/tag/uibinder/</link>
       <pubDate>Wed, 13 Oct 2010 10:25:17 +0000</pubDate>
-      <guid>http://blog.code-house.org/tag/uibinder/</guid>
+      <guid>https://blog.code-house.org/tag/uibinder/</guid>
       <description></description>
     </item>
     <item>
       <title>Widget</title>
-      <link>http://blog.code-house.org/tag/widget/</link>
+      <link>https://blog.code-house.org/tag/widget/</link>
       <pubDate>Wed, 13 Oct 2010 10:25:17 +0000</pubDate>
-      <guid>http://blog.code-house.org/tag/widget/</guid>
+      <guid>https://blog.code-house.org/tag/widget/</guid>
       <description></description>
     </item>
     <item>
       <title>Gxt</title>
-      <link>http://blog.code-house.org/tag/gxt/</link>
+      <link>https://blog.code-house.org/tag/gxt/</link>
       <pubDate>Thu, 05 Nov 2009 20:15:54 +0000</pubDate>
-      <guid>http://blog.code-house.org/tag/gxt/</guid>
+      <guid>https://blog.code-house.org/tag/gxt/</guid>
       <description></description>
     </item>
     <item>
       <title>Pure-Mvc</title>
-      <link>http://blog.code-house.org/tag/pure-mvc/</link>
+      <link>https://blog.code-house.org/tag/pure-mvc/</link>
       <pubDate>Thu, 05 Nov 2009 20:15:54 +0000</pubDate>
-      <guid>http://blog.code-house.org/tag/pure-mvc/</guid>
+      <guid>https://blog.code-house.org/tag/pure-mvc/</guid>
       <description></description>
     </item>
     <item>
       <title>J2ee</title>
-      <link>http://blog.code-house.org/tag/j2ee/</link>
+      <link>https://blog.code-house.org/tag/j2ee/</link>
       <pubDate>Fri, 04 Sep 2009 13:31:45 +0000</pubDate>
-      <guid>http://blog.code-house.org/tag/j2ee/</guid>
+      <guid>https://blog.code-house.org/tag/j2ee/</guid>
       <description></description>
     </item>
     <item>
       <title>Jpa</title>
-      <link>http://blog.code-house.org/tag/jpa/</link>
+      <link>https://blog.code-house.org/tag/jpa/</link>
       <pubDate>Fri, 04 Sep 2009 13:31:45 +0000</pubDate>
-      <guid>http://blog.code-house.org/tag/jpa/</guid>
+      <guid>https://blog.code-house.org/tag/jpa/</guid>
       <description></description>
     </item>
     <item>
       <title>Eclipse</title>
-      <link>http://blog.code-house.org/tag/eclipse/</link>
+      <link>https://blog.code-house.org/tag/eclipse/</link>
       <pubDate>Tue, 07 Jul 2009 06:00:20 +0000</pubDate>
-      <guid>http://blog.code-house.org/tag/eclipse/</guid>
+      <guid>https://blog.code-house.org/tag/eclipse/</guid>
       <description></description>
     </item>
     <item>
       <title>Maven</title>
-      <link>http://blog.code-house.org/tag/maven/</link>
+      <link>https://blog.code-house.org/tag/maven/</link>
       <pubDate>Tue, 07 Jul 2009 06:00:20 +0000</pubDate>
-      <guid>http://blog.code-house.org/tag/maven/</guid>
+      <guid>https://blog.code-house.org/tag/maven/</guid>
       <description></description>
     </item>
     <item>
       <title>Servicemix-Ide</title>
-      <link>http://blog.code-house.org/tag/servicemix-ide/</link>
+      <link>https://blog.code-house.org/tag/servicemix-ide/</link>
       <pubDate>Tue, 07 Jul 2009 06:00:20 +0000</pubDate>
-      <guid>http://blog.code-house.org/tag/servicemix-ide/</guid>
+      <guid>https://blog.code-house.org/tag/servicemix-ide/</guid>
       <description></description>
     </item>
   </channel>

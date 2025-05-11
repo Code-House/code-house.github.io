@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Camel on The Code-House Blog</title>
-    <link>http://blog.code-house.org/category/camel/</link>
+    <link>https://blog.code-house.org/category/camel/</link>
     <description>Recent content in Camel on The Code-House Blog</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>pl-PL</language>
     <lastBuildDate>Wed, 24 Mar 2010 15:26:52 +0000</lastBuildDate>
-    <atom:link href="http://blog.code-house.org/category/camel/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.code-house.org/category/camel/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OSGi-fikacja oraz nowe bundle w repozytorium ServiceMix</title>
-      <link>http://blog.code-house.org/2010/03/osgi-new-bundles-servicemix-repository/</link>
+      <link>https://blog.code-house.org/2010/03/osgi-new-bundles-servicemix-repository/</link>
       <pubDate>Wed, 24 Mar 2010 15:26:52 +0000</pubDate>
-      <guid>http://blog.code-house.org/2010/03/osgi-new-bundles-servicemix-repository/</guid>
+      <guid>https://blog.code-house.org/2010/03/osgi-new-bundles-servicemix-repository/</guid>
       <description>&lt;p&gt;W tym wpisie zostanie omówiony proces OSGi-fikacji artefaktów, który przechodziłem gdy uruchamiałem prostą usługę na ServiceMix, która miała śledzić zewnętrzny RSS i pobierać z niego wpisy. Postanowiłem skorzystać z camel-rss. Przykłady które były do niego załączone są wystarczające by stworzyć odpowiedniego konsumenta&amp;hellip;&lt;/p&gt;
 &lt;p&gt;Problem zaczął się gdy usiłowałem uruchomić endpoint camela w OSGi. Mimo poprawnej konfiguracji, rozwiązanych zależności otrzymywałem wyjątek:
 [code]java.lang.NoClassDefFoundError: Could not initialize class com.sun.syndication.feed.synd.SyndFeedImpl
@@ -52,9 +52,9 @@ return array;
     </item>
     <item>
       <title>Wprowadzenie do Apache ServiceMix 4 cz. 1</title>
-      <link>http://blog.code-house.org/2010/03/introduction-to-apache-servicemix4-part-1/</link>
+      <link>https://blog.code-house.org/2010/03/introduction-to-apache-servicemix4-part-1/</link>
       <pubDate>Mon, 22 Mar 2010 11:19:50 +0000</pubDate>
-      <guid>http://blog.code-house.org/2010/03/introduction-to-apache-servicemix4-part-1/</guid>
+      <guid>https://blog.code-house.org/2010/03/introduction-to-apache-servicemix4-part-1/</guid>
       <description>&lt;p&gt;Dnia 23 lutego w ramach Warszawa JUG miałem przyjemność wraz z &lt;a href=&#34;http://nurkiewicz.blogspot.com/&#34;&gt;Tomkiem Nurkiewiczem&lt;/a&gt; prezentować narzędzia integracyjne z otwartym kodem źródłowym. Tomek przedstawił Mule ESB, podczas gdy ja zająłem się Apache ServiceMix i Apache Camel. Ze względu na objętość przykładu ten wpis będzie jedynie wprowadzeniem do konsoli.&lt;/p&gt;
 &lt;p&gt;Niestety podczas prezentacji nie udało mi się uruchomić przykładu na &amp;ldquo;szynie&amp;rdquo; - ponieważ uniemożliwiły to zależności do bibliotek których nie miałem zapisanych lokalnie. Drugim mym przeciwnikiem był czas - nie było wielu chętnych by słuchać po 2h tłumaczeń dlaczego się nie udało :-) Na problem z zależnościami stworzyłem rozwiązanie i zgłosiłem je do Karaf-a ( &lt;a href=&#34;https://issues.apache.org/jira/browse/FELIX-2141&#34;&gt;FELIX 2141&lt;/a&gt;). W przyszłej wersji - 1.6 - wszyscy będą mogli skorzystać z polecenia &lt;code&gt;features:info -t&lt;/code&gt; które wyświetli całe drzewko zależności potrzebnych do zainstalowania nowych funkcjonalności.&lt;/p&gt;</description>
     </item>

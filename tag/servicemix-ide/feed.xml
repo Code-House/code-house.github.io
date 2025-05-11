@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Servicemix-Ide on The Code-House Blog</title>
-    <link>http://blog.code-house.org/tag/servicemix-ide/</link>
+    <link>https://blog.code-house.org/tag/servicemix-ide/</link>
     <description>Recent content in Servicemix-Ide on The Code-House Blog</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>pl-PL</language>
     <lastBuildDate>Tue, 07 Jul 2009 06:00:20 +0000</lastBuildDate>
-    <atom:link href="http://blog.code-house.org/tag/servicemix-ide/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.code-house.org/tag/servicemix-ide/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ServiceMix IDE integration</title>
-      <link>http://blog.code-house.org/2009/07/servicemix-ide-integration/</link>
+      <link>https://blog.code-house.org/2009/07/servicemix-ide-integration/</link>
       <pubDate>Tue, 07 Jul 2009 06:00:20 +0000</pubDate>
-      <guid>http://blog.code-house.org/2009/07/servicemix-ide-integration/</guid>
-      <description>&lt;p&gt;Jakiś czas temu &lt;a href=&#34;http://blog.code-house.org/2009/05/warszawski-eclipse-democamp-galileo-2009/&#34;&gt;zapraszaliśmy na tym blogu&lt;/a&gt; zainteresowanych na Warszawski Eclipse DemoCamp Galileo 2009. Jest nam niezmiernie miło ogłosić, że temat poruszany na tym spotkaniu przez Code-House Software został kontynuowany. Wsparcie dla &lt;a href=&#34;http://servicemix.apache.org/&#34;&gt;Apache ServiceMix&lt;/a&gt; w oparciu o &lt;a href=&#34;http://springide.org&#34;&gt;Spring IDE&lt;/a&gt; zainteresowało społeczność jak i organizacje skupione wokół projektu, między innymi &lt;a href=&#34;http://fusesource.com/&#34;&gt;FUSE Source&lt;/a&gt;. Nie będzie to oczywiście alternatywa dla narzędzi oferowanych przez tą firmę a raczej dopełnienie funkcjonalności, których w tej chwili trudno szukać.&lt;/p&gt;
+      <guid>https://blog.code-house.org/2009/07/servicemix-ide-integration/</guid>
+      <description>&lt;p&gt;Jakiś czas temu &lt;a href=&#34;https://blog.code-house.org/2009/05/warszawski-eclipse-democamp-galileo-2009/&#34;&gt;zapraszaliśmy na tym blogu&lt;/a&gt; zainteresowanych na Warszawski Eclipse DemoCamp Galileo 2009. Jest nam niezmiernie miło ogłosić, że temat poruszany na tym spotkaniu przez Code-House Software został kontynuowany. Wsparcie dla &lt;a href=&#34;http://servicemix.apache.org/&#34;&gt;Apache ServiceMix&lt;/a&gt; w oparciu o &lt;a href=&#34;http://springide.org&#34;&gt;Spring IDE&lt;/a&gt; zainteresowało społeczność jak i organizacje skupione wokół projektu, między innymi &lt;a href=&#34;http://fusesource.com/&#34;&gt;FUSE Source&lt;/a&gt;. Nie będzie to oczywiście alternatywa dla narzędzi oferowanych przez tą firmę a raczej dopełnienie funkcjonalności, których w tej chwili trudno szukać.&lt;/p&gt;
 &lt;p&gt;Strona projektu znajduje się na razie na &lt;a href=&#34;http://projects.code-house.org/wiki/sm-ide&#34;&gt;wiki&lt;/a&gt; bug trackera Code-House i jest na nim kilka informacji odnośnie celów projektu i nawet parę zadań. :-) Na pytanie kiedy pojawi się działająca wersja ciężko nam odpowiedzieć ponieważ w obecnej chwili siły przerobowe naszej firmy oprócz zaangażowania w kontrakt muszą podołać przygotowaniu akcji marketingowej w prasie oraz internecie. Miejmy nadzieję, że przed końcem wakacji pojawi się działająca wersja. Oczywiście nie jest to jedyny sposób w jaki Code-House wspiera społeczność projektu Apache ServiceMix, w planach mamy wspomaganie paru komponentów które wzbogacą funkcjonalność magistrali.&lt;/p&gt;</description>
     </item>
   </channel>
